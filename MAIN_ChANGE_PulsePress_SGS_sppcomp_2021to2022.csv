@@ -1,0 +1,1269 @@
+block,plot,site,treatment,year,species,cover,nitrogen
+A,1,sgs,nitrogen,2021,Carex eleocharis,1,30
+A,1,sgs,nitrogen,2021,Bromus tectorum,4,30
+A,1,sgs,nitrogen,2021,Chenopodium sp.,3,30
+A,1,sgs,nitrogen,2021,Euphorbia sp.,1,30
+A,1,sgs,nitrogen,2021,Elymus elymoides,60,30
+A,1,sgs,nitrogen,2021,Oenothera albicaulis,1,30
+A,1,sgs,nitrogen,2021,Sphaeralcea coccinea,1,30
+A,1,sgs,nitrogen,2021,Thelesperma filifolium,1,30
+A,2,sgs,nitrogen,2021,Lepidium densiflorum,2,20
+A,2,sgs,nitrogen,2021,Oenothera albicaulis,2,20
+A,2,sgs,nitrogen,2021,Plantago patagonica,1,20
+A,2,sgs,nitrogen,2021,Salsola tragus,13,20
+A,2,sgs,nitrogen,2021,Thelesperma filifolium,2,20
+A,2,sgs,nitrogen,2021,Euphorbia sp.,1,20
+A,2,sgs,nitrogen,2021,Sphaeralcea coccinea,10,20
+A,2,sgs,nitrogen,2021,Chenopodium sp.,30,20
+A,2,sgs,nitrogen,2021,Bromus tectorum,2,20
+A,2,sgs,nitrogen,2021,Elymus elymoides,30,20
+A,2,sgs,nitrogen,2021,Sporobolus cryptandrus,1,20
+A,2,sgs,nitrogen,2021,Carex eleocharis,2,20
+A,3,sgs,nitrogen,2021,Carex eleocharis,10,10
+A,3,sgs,nitrogen,2021,Vulpia octoflora,12,10
+A,3,sgs,nitrogen,2021,Chenopodium sp.,25,10
+A,3,sgs,nitrogen,2021,Elymus elymoides,25,10
+A,3,sgs,nitrogen,2021,Euphorbia sp.,1,10
+A,3,sgs,nitrogen,2021,Lepidium densiflorum,1,10
+A,3,sgs,nitrogen,2021,Echinocereus viridiflora,1,10
+A,3,sgs,nitrogen,2021,Sphaeralcea coccinea,15,10
+A,3,sgs,nitrogen,2021,Plantago patagonica,1,10
+A,3,sgs,nitrogen,2021,Oenothera albicaulis,2,10
+A,4,sgs,nitrogen,2021,Sphaeralcea coccinea,7,15
+A,4,sgs,nitrogen,2021,Carex eleocharis,15,15
+A,4,sgs,nitrogen,2021,Chenopodium sp.,3,15
+A,4,sgs,nitrogen,2021,Euphorbia sp.,1,15
+A,4,sgs,nitrogen,2021,Plantago patagonica,1,15
+A,4,sgs,nitrogen,2021,Elymus elymoides,50,15
+A,4,sgs,nitrogen,2021,Vulpia octoflora,3,15
+A,5,sgs,nitrogen,2021,Sphaeralcea coccinea,2,5
+A,5,sgs,nitrogen,2021,Carex filifolia,2,5
+A,5,sgs,nitrogen,2021,Vulpia octoflora,4,5
+A,5,sgs,nitrogen,2021,Sisymbrium altissimum,9,5
+A,5,sgs,nitrogen,2021,Picradeniopsis oppositifolia,1,5
+A,5,sgs,nitrogen,2021,Elymus elymoides,3,5
+A,5,sgs,nitrogen,2021,Bromus tectorum,100,5
+A,6,sgs,nitrogen,2021,Sisymbrium altissimum,20,0
+A,6,sgs,nitrogen,2021,Sphaeralcea coccinea,1,0
+A,6,sgs,nitrogen,2021,Lepidium densiflorum,1,0
+A,6,sgs,nitrogen,2021,Opuntia polyacantha,6,0
+A,6,sgs,nitrogen,2021,Carex filifolia,2,0
+A,6,sgs,nitrogen,2021,Carex eleocharis,6,0
+A,6,sgs,nitrogen,2021,Bouteloua gracilis,1,0
+A,6,sgs,nitrogen,2021,Elymus elymoides,22,0
+A,6,sgs,nitrogen,2021,Vulpia octoflora,70,0
+A,6,sgs,nitrogen,2021,Bromus tectorum,3,0
+A,7,sgs,nitrogen,2021,Sphaeralcea coccinea,10,7.5
+A,7,sgs,nitrogen,2021,Vulpia octoflora,8,7.5
+A,7,sgs,nitrogen,2021,Carex eleocharis,6,7.5
+A,7,sgs,nitrogen,2021,Chenopodium sp.,1,7.5
+A,7,sgs,nitrogen,2021,Elymus elymoides,60,7.5
+A,7,sgs,nitrogen,2021,Bromus tectorum,40,7.5
+A,8,sgs,nitrogen,2021,Vulpia octoflora,75,2.5
+A,8,sgs,nitrogen,2021,Sphaeralcea coccinea,2,2.5
+A,8,sgs,nitrogen,2021,Euphorbia sp.,1,2.5
+A,8,sgs,nitrogen,2021,Elymus elymoides,25,2.5
+B,10,sgs,nitrogen,2021,Vulpia octoflora,85,2.5
+B,10,sgs,nitrogen,2021,Elymus elymoides,3,2.5
+B,10,sgs,nitrogen,2021,Sphaeralcea coccinea,7,2.5
+B,10,sgs,nitrogen,2021,Chenopodium sp.,4,2.5
+B,10,sgs,nitrogen,2021,Bromus tectorum,12,2.5
+B,10,sgs,nitrogen,2021,Sisymbrium altissimum,8,2.5
+B,11,sgs,nitrogen,2021,Sphaeralcea coccinea,7,7.5
+B,11,sgs,nitrogen,2021,Opuntia polyacantha,4,7.5
+B,11,sgs,nitrogen,2021,Chenopodium sp.,2,7.5
+B,11,sgs,nitrogen,2021,Vulpia octoflora,70,7.5
+B,11,sgs,nitrogen,2021,Elymus elymoides,35,7.5
+B,11,sgs,nitrogen,2021,Bromus tectorum,3,7.5
+B,12,sgs,nitrogen,2021,Mirabilis linearis,1,20
+B,12,sgs,nitrogen,2021,Oenothera albicaulis,2,20
+B,12,sgs,nitrogen,2021,Vulpia octoflora,15,20
+B,12,sgs,nitrogen,2021,Carex eleocharis,2,20
+B,12,sgs,nitrogen,2021,Sporobolus cryptandrus,1,20
+B,12,sgs,nitrogen,2021,Chenopodium sp.,31,20
+B,12,sgs,nitrogen,2021,Elymus elymoides,12,20
+B,12,sgs,nitrogen,2021,Koelaria macrantha,2,20
+B,12,sgs,nitrogen,2021,Bouteloua gracilis,1,20
+B,12,sgs,nitrogen,2021,Bromus tectorum,5,20
+B,13,sgs,nitrogen,2021,Carex eleocharis,2,5
+B,13,sgs,nitrogen,2021,Chenopodium sp.,2,5
+B,13,sgs,nitrogen,2021,Sphaeralcea coccinea,35,5
+B,13,sgs,nitrogen,2021,Vulpia octoflora,30,5
+B,13,sgs,nitrogen,2021,Elymus elymoides,23,5
+B,14,sgs,nitrogen,2021,Vulpia octoflora,1,30
+B,14,sgs,nitrogen,2021,Bromus tectorum,100,30
+B,14,sgs,nitrogen,2021,Elymus elymoides,27,30
+B,15,sgs,nitrogen,2021,Vulpia octoflora,1,10
+B,15,sgs,nitrogen,2021,Chenopodium sp.,25,10
+B,15,sgs,nitrogen,2021,Elymus elymoides,50,10
+B,15,sgs,nitrogen,2021,Carex eleocharis,1,10
+B,15,sgs,nitrogen,2021,Lepidium densiflorum,6,10
+B,15,sgs,nitrogen,2021,Bromus tectorum,17,10
+B,15,sgs,nitrogen,2021,Sphaeralcea coccinea,4,10
+B,15,sgs,nitrogen,2021,Sisymbrium altissimum,2,10
+B,15,sgs,nitrogen,2021,Lappula sp.,9,10
+B,16,sgs,nitrogen,2021,Salsola tragus,2,15
+B,16,sgs,nitrogen,2021,Sisymbrium altissimum,1,15
+B,16,sgs,nitrogen,2021,Elymus elymoides,50,15
+B,16,sgs,nitrogen,2021,Vulpia octoflora,3,15
+B,16,sgs,nitrogen,2021,Carex eleocharis,1,15
+B,16,sgs,nitrogen,2021,Chenopodium sp.,55,15
+B,16,sgs,nitrogen,2021,Opuntia polyacantha,1,15
+B,16,sgs,nitrogen,2021,Sphaeralcea coccinea,8,15
+B,16,sgs,nitrogen,2021,Bromus tectorum,3,15
+B,9,sgs,nitrogen,2021,Carex eleocharis,8,0
+B,9,sgs,nitrogen,2021,Sphaeralcea coccinea,15,0
+B,9,sgs,nitrogen,2021,Bouteloua gracilis,1,0
+B,9,sgs,nitrogen,2021,Elymus elymoides,70,0
+B,9,sgs,nitrogen,2021,Vulpia octoflora,60,0
+B,9,sgs,nitrogen,2021,Psoralea tenuiflora,3,0
+B,9,sgs,nitrogen,2021,Chenopodium sp.,1,0
+C,17,sgs,nitrogen,2021,Opuntia polyacantha,2,5
+C,17,sgs,nitrogen,2021,Sphaeralcea coccinea,2,5
+C,17,sgs,nitrogen,2021,Chenopodium sp.,1,5
+C,17,sgs,nitrogen,2021,Elymus elymoides,70,5
+C,18,sgs,nitrogen,2021,Sisymbrium altissimum,1,20
+C,18,sgs,nitrogen,2021,Sphaeralcea coccinea,16,20
+C,18,sgs,nitrogen,2021,Oenothera albicaulis,1,20
+C,18,sgs,nitrogen,2021,Vulpia octoflora,2,20
+C,18,sgs,nitrogen,2021,Elymus elymoides,60,20
+C,18,sgs,nitrogen,2021,Bromus tectorum,2,20
+C,19,sgs,nitrogen,2021,Sisymbrium altissimum,30,10
+C,19,sgs,nitrogen,2021,Picradeniopsis oppositifolia,3,10
+C,19,sgs,nitrogen,2021,Sphaeralcea coccinea,4,10
+C,19,sgs,nitrogen,2021,Chenopodium sp.,2,10
+C,19,sgs,nitrogen,2021,Carex eleocharis,1,10
+C,19,sgs,nitrogen,2021,Vulpia octoflora,75,10
+C,19,sgs,nitrogen,2021,Elymus elymoides,30,10
+C,20,sgs,nitrogen,2021,Oenothera albicaulis,1,30
+C,20,sgs,nitrogen,2021,Sisymbrium altissimum,3,30
+C,20,sgs,nitrogen,2021,Euphorbia sp.,5,30
+C,20,sgs,nitrogen,2021,Bromus tectorum,1,30
+C,20,sgs,nitrogen,2021,Elymus elymoides,40,30
+C,20,sgs,nitrogen,2021,Chenopodium sp.,10,30
+C,20,sgs,nitrogen,2021,Conyza canadensis,1,30
+C,21,sgs,nitrogen,2021,Elymus elymoides,25,0
+C,21,sgs,nitrogen,2021,Vulpia octoflora,60,0
+C,21,sgs,nitrogen,2021,Chenopodium sp.,1,0
+C,21,sgs,nitrogen,2021,Sporobolus cryptandrus,2,0
+C,21,sgs,nitrogen,2021,Carex eleocharis,2,0
+C,21,sgs,nitrogen,2021,Sphaeralcea coccinea,6,0
+C,22,sgs,nitrogen,2021,Carex eleocharis,37,2.5
+C,22,sgs,nitrogen,2021,Vulpia octoflora,25,2.5
+C,22,sgs,nitrogen,2021,Picradeniopsis oppositifolia,2,2.5
+C,22,sgs,nitrogen,2021,Chenopodium sp.,1,2.5
+C,22,sgs,nitrogen,2021,Bromus tectorum,2,2.5
+C,22,sgs,nitrogen,2021,Elymus elymoides,50,2.5
+C,23,sgs,nitrogen,2021,Bromus tectorum,20,7.5
+C,23,sgs,nitrogen,2021,Elymus elymoides,20,7.5
+C,23,sgs,nitrogen,2021,Vulpia octoflora,60,7.5
+C,23,sgs,nitrogen,2021,Euphorbia sp.,2,7.5
+C,23,sgs,nitrogen,2021,Sphaeralcea coccinea,2,7.5
+C,23,sgs,nitrogen,2021,Sisymbrium altissimum,80,7.5
+C,24,sgs,nitrogen,2021,Sisymbrium altissimum,40,15
+C,24,sgs,nitrogen,2021,Chenopodium sp.,75,15
+C,24,sgs,nitrogen,2021,Euphorbia sp.,1,15
+C,24,sgs,nitrogen,2021,Sporobolus cryptandrus,1,15
+C,24,sgs,nitrogen,2021,Vulpia octoflora,4,15
+C,24,sgs,nitrogen,2021,Elymus elymoides,6,15
+C,24,sgs,nitrogen,2021,Bromus tectorum,2,15
+D,25,sgs,nitrogen,2021,Vulpia octoflora,55,2.5
+D,25,sgs,nitrogen,2021,Ericameria nauseosa,15,2.5
+D,25,sgs,nitrogen,2021,Sisymbrium altissimum,25,2.5
+D,25,sgs,nitrogen,2021,Elymus elymoides,22,2.5
+D,26,sgs,nitrogen,2021,Sphaeralcea coccinea,1,5
+D,26,sgs,nitrogen,2021,Elymus elymoides,40,5
+D,26,sgs,nitrogen,2021,Vulpia octoflora,60,5
+D,26,sgs,nitrogen,2021,Chenopodium sp.,1,5
+D,26,sgs,nitrogen,2021,Sisymbrium altissimum,2,5
+D,27,sgs,nitrogen,2021,Sphaeralcea coccinea,5,15
+D,27,sgs,nitrogen,2021,Lepidium densiflorum,2,15
+D,27,sgs,nitrogen,2021,Elymus elymoides,45,15
+D,27,sgs,nitrogen,2021,Bromus tectorum,1,15
+D,27,sgs,nitrogen,2021,Euphorbia sp.,7,15
+D,27,sgs,nitrogen,2021,Vulpia octoflora,2,15
+D,27,sgs,nitrogen,2021,Chenopodium sp.,8,15
+D,28,sgs,nitrogen,2021,Sisymbrium altissimum,2,7.5
+D,28,sgs,nitrogen,2021,Sphaeralcea coccinea,6,7.5
+D,28,sgs,nitrogen,2021,Euphorbia sp.,2,7.5
+D,28,sgs,nitrogen,2021,Oenothera albicaulis,1,7.5
+D,28,sgs,nitrogen,2021,Chenopodium sp.,2,7.5
+D,28,sgs,nitrogen,2021,Vulpia octoflora,10,7.5
+D,28,sgs,nitrogen,2021,Elymus elymoides,70,7.5
+D,29,sgs,nitrogen,2021,Sphaeralcea coccinea,7,30
+D,29,sgs,nitrogen,2021,Vulpia octoflora,1,30
+D,29,sgs,nitrogen,2021,Chenopodium sp.,1,30
+D,29,sgs,nitrogen,2021,Elymus elymoides,20,30
+D,29,sgs,nitrogen,2021,Sisymbrium altissimum,10,30
+D,29,sgs,nitrogen,2021,Bromus tectorum,1,30
+D,29,sgs,nitrogen,2021,Lepidium densiflorum,1,30
+D,30,sgs,nitrogen,2021,Elymus elymoides,65,0
+D,30,sgs,nitrogen,2021,Scutellaria galericulata,6,0
+D,30,sgs,nitrogen,2021,Vulpia octoflora,60,0
+D,30,sgs,nitrogen,2021,Sphaeralcea coccinea,2,0
+D,31,sgs,nitrogen,2021,Sisymbrium altissimum,1,10
+D,31,sgs,nitrogen,2021,Chenopodium sp.,2,10
+D,31,sgs,nitrogen,2021,Eriogonum effusum,5,10
+D,31,sgs,nitrogen,2021,Sphaeralcea coccinea,1,10
+D,31,sgs,nitrogen,2021,Bromus tectorum,5,10
+D,31,sgs,nitrogen,2021,Carex eleocharis,3,10
+D,31,sgs,nitrogen,2021,Vulpia octoflora,1,10
+D,31,sgs,nitrogen,2021,Elymus elymoides,40,10
+D,32,sgs,nitrogen,2021,Sisymbrium altissimum,10,20
+D,32,sgs,nitrogen,2021,Sporobolus cryptandrus,1,20
+D,32,sgs,nitrogen,2021,Sphaeralcea coccinea,10,20
+D,32,sgs,nitrogen,2021,Vulpia octoflora,4,20
+D,32,sgs,nitrogen,2021,Chenopodium sp.,22,20
+D,32,sgs,nitrogen,2021,Euphorbia sp.,5,20
+D,32,sgs,nitrogen,2021,Elymus elymoides,30,20
+E,33,sgs,nitrogen,2021,Carex eleocharis,10,0
+E,33,sgs,nitrogen,2021,Sisymbrium altissimum,2,0
+E,33,sgs,nitrogen,2021,Euphorbia sp.,4,0
+E,33,sgs,nitrogen,2021,Vulpia octoflora,70,0
+E,33,sgs,nitrogen,2021,Bouteloua gracilis,1,0
+E,33,sgs,nitrogen,2021,Elymus elymoides,3,0
+E,33,sgs,nitrogen,2021,Cryptantha minima,1,0
+E,33,sgs,nitrogen,2021,Opuntia polyacantha,2,0
+E,33,sgs,nitrogen,2021,Sphaeralcea coccinea,2,0
+E,33,sgs,nitrogen,2021,Agropyron smithii,18,0
+E,34,sgs,nitrogen,2021,Sphaeralcea coccinea,3,20
+E,34,sgs,nitrogen,2021,Eriosema sp.,2,20
+E,34,sgs,nitrogen,2021,Euphorbia sp.,1,20
+E,34,sgs,nitrogen,2021,Agropyron smithii,7,20
+E,34,sgs,nitrogen,2021,Bromus tectorum,90,20
+E,34,sgs,nitrogen,2021,Elymus elymoides,6,20
+E,34,sgs,nitrogen,2021,Vulpia octoflora,1,20
+E,35,sgs,nitrogen,2021,Euphorbia sp.,5,30
+E,35,sgs,nitrogen,2021,Salsola tragus,25,30
+E,35,sgs,nitrogen,2021,Chenopodium sp.,55,30
+E,35,sgs,nitrogen,2021,Elymus elymoides,21,30
+E,36,sgs,nitrogen,2021,Opuntia polyacantha,7,5
+E,36,sgs,nitrogen,2021,Plantago patagonica,1,5
+E,36,sgs,nitrogen,2021,Sphaeralcea coccinea,5,5
+E,36,sgs,nitrogen,2021,Chenopodium sp.,1,5
+E,36,sgs,nitrogen,2021,Vulpia octoflora,1,5
+E,36,sgs,nitrogen,2021,Carex eleocharis,11,5
+E,36,sgs,nitrogen,2021,Bromus tectorum,4,5
+E,36,sgs,nitrogen,2021,Elymus elymoides,30,5
+E,37,sgs,nitrogen,2021,Picradeniopsis oppositifolia,3,2.5
+E,37,sgs,nitrogen,2021,Elymus elymoides,25,2.5
+E,37,sgs,nitrogen,2021,Vulpia octoflora,90,2.5
+E,37,sgs,nitrogen,2021,Sphaeralcea coccinea,3,2.5
+E,37,sgs,nitrogen,2021,Salsola tragus,6,2.5
+E,37,sgs,nitrogen,2021,Carex eleocharis,1,2.5
+E,37,sgs,nitrogen,2021,Bromus tectorum,5,2.5
+E,38,sgs,nitrogen,2021,Sphaeralcea coccinea,35,15
+E,38,sgs,nitrogen,2021,Plantago patagonica,1,15
+E,38,sgs,nitrogen,2021,Oenothera albicaulis,2,15
+E,38,sgs,nitrogen,2021,Lepidium densiflorum,1,15
+E,38,sgs,nitrogen,2021,Euphorbia sp.,4,15
+E,38,sgs,nitrogen,2021,Chenopodium sp.,35,15
+E,38,sgs,nitrogen,2021,Elymus elymoides,18,15
+E,38,sgs,nitrogen,2021,Vulpia octoflora,1,15
+E,38,sgs,nitrogen,2021,Carex eleocharis,4,15
+E,39,sgs,nitrogen,2021,Sphaeralcea coccinea,28,7.5
+E,39,sgs,nitrogen,2021,Plantago patagonica,1,7.5
+E,39,sgs,nitrogen,2021,Lepidium densiflorum,1,7.5
+E,39,sgs,nitrogen,2021,Chenopodium sp.,60,7.5
+E,39,sgs,nitrogen,2021,Euphorbia sp.,4,7.5
+E,39,sgs,nitrogen,2021,Elymus elymoides,11,7.5
+E,39,sgs,nitrogen,2021,Vulpia octoflora,7,7.5
+E,40,sgs,nitrogen,2021,Sphaeralcea coccinea,7,10
+E,40,sgs,nitrogen,2021,Elymus elymoides,45,10
+E,40,sgs,nitrogen,2021,Chenopodium sp.,2,10
+E,40,sgs,nitrogen,2021,Lepidium densiflorum,1,10
+E,40,sgs,nitrogen,2021,Opuntia polyacantha,9,10
+E,40,sgs,nitrogen,2021,Euphorbia sp.,4,10
+E,40,sgs,nitrogen,2021,Carex eleocharis,4,10
+F,41,sgs,nitrogen,2021,Lepidium densiflorum,1,20
+F,41,sgs,nitrogen,2021,Picradeniopsis oppositifolia,1,20
+F,41,sgs,nitrogen,2021,Opuntia polyacantha,1,20
+F,41,sgs,nitrogen,2021,Sphaeralcea coccinea,2,20
+F,41,sgs,nitrogen,2021,Euphorbia sp.,1,20
+F,41,sgs,nitrogen,2021,Salsola tragus,10,20
+F,41,sgs,nitrogen,2021,Chenopodium sp.,2,20
+F,41,sgs,nitrogen,2021,Bouteloua gracilis,1,20
+F,41,sgs,nitrogen,2021,Bromus tectorum,45,20
+F,41,sgs,nitrogen,2021,Elymus elymoides,35,20
+F,42,sgs,nitrogen,2021,Sphaeralcea coccinea,1,30
+F,42,sgs,nitrogen,2021,Salsola tragus,9,30
+F,42,sgs,nitrogen,2021,Euphorbia sp.,1,30
+F,42,sgs,nitrogen,2021,Picradeniopsis oppositifolia,1,30
+F,42,sgs,nitrogen,2021,Chenopodium sp.,8,30
+F,42,sgs,nitrogen,2021,Elymus elymoides,60,30
+F,43,sgs,nitrogen,2021,Vulpia octoflora,10,5
+F,43,sgs,nitrogen,2021,Bromus tectorum,15,5
+F,43,sgs,nitrogen,2021,Elymus elymoides,75,5
+F,44,sgs,nitrogen,2021,Lepidium densiflorum,1,10
+F,44,sgs,nitrogen,2021,Chenopodium sp.,2,10
+F,44,sgs,nitrogen,2021,Sphaeralcea coccinea,1,10
+F,44,sgs,nitrogen,2021,Sisymbrium altissimum,1,10
+F,44,sgs,nitrogen,2021,Vulpia octoflora,1,10
+F,44,sgs,nitrogen,2021,Elymus elymoides,65,10
+F,45,sgs,nitrogen,2021,Lepidium densiflorum,2,0
+F,45,sgs,nitrogen,2021,Sphaeralcea coccinea,2,0
+F,45,sgs,nitrogen,2021,Eriogonum effusum,20,0
+F,45,sgs,nitrogen,2021,Vulpia octoflora,25,0
+F,45,sgs,nitrogen,2021,Carex eleocharis,4,0
+F,45,sgs,nitrogen,2021,Chenopodium sp.,1,0
+F,45,sgs,nitrogen,2021,Elymus elymoides,45,0
+F,46,sgs,nitrogen,2021,Bromus tectorum,10,7.5
+F,46,sgs,nitrogen,2021,Elymus elymoides,30,7.5
+F,46,sgs,nitrogen,2021,Salsola tragus,1,7.5
+F,46,sgs,nitrogen,2021,Vulpia octoflora,1,7.5
+F,46,sgs,nitrogen,2021,Carex eleocharis,5,7.5
+F,46,sgs,nitrogen,2021,Euphorbia sp.,1,7.5
+F,46,sgs,nitrogen,2021,Opuntia polyacantha,2,7.5
+F,46,sgs,nitrogen,2021,Sphaeralcea coccinea,5,7.5
+F,47,sgs,nitrogen,2021,Elymus elymoides,60,15
+F,47,sgs,nitrogen,2021,Vulpia octoflora,1,15
+F,47,sgs,nitrogen,2021,Chenopodium sp.,2,15
+F,47,sgs,nitrogen,2021,Opuntia polyacantha,7,15
+F,47,sgs,nitrogen,2021,Sphaeralcea coccinea,1,15
+F,48,sgs,nitrogen,2021,Bromus tectorum,55,2.5
+F,48,sgs,nitrogen,2021,Elymus elymoides,15,2.5
+F,48,sgs,nitrogen,2021,Vulpia octoflora,60,2.5
+F,48,sgs,nitrogen,2021,Carex eleocharis,2,2.5
+F,48,sgs,nitrogen,2021,Sphaeralcea coccinea,1,2.5
+A,1,sgs,pulse press 1,2021,Chenopodium sp.,50,30
+A,1,sgs,pulse press 1,2021,Vulpia octoflora,1,30
+A,1,sgs,pulse press 1,2021,Euphorbia sp.,3,30
+A,1,sgs,pulse press 1,2021,Elymus elymoides,39,30
+A,1,sgs,pulse press 1,2021,Sporobolus cryptandrus,1,30
+A,1,sgs,pulse press 1,2021,Thelesperma filifolium,2,30
+A,1,sgs,pulse press 1,2021,Sphaeralcea coccinea,8,30
+A,1,sgs,pulse press 1,2021,Oenothera albicaulis,1,30
+A,2,sgs,pulse press 1,2021,Sphaeralcea coccinea,6,20
+A,2,sgs,pulse press 1,2021,Euphorbia sp.,1,20
+A,2,sgs,pulse press 1,2021,Opuntia polyacantha,7,20
+A,2,sgs,pulse press 1,2021,Plantago patagonica,1,20
+A,2,sgs,pulse press 1,2021,Sisymbrium altissimum,4,20
+A,2,sgs,pulse press 1,2021,Salsola tragus,5,20
+A,2,sgs,pulse press 1,2021,Chenopodium sp.,26,20
+A,2,sgs,pulse press 1,2021,Carex eleocharis,1,20
+A,2,sgs,pulse press 1,2021,Elymus elymoides,31,20
+A,3,sgs,pulse press 1,2021,Sporobolus cryptandrus,5,10
+A,3,sgs,pulse press 1,2021,Carex eleocharis,1,10
+A,3,sgs,pulse press 1,2021,Chenopodium sp.,65,10
+A,3,sgs,pulse press 1,2021,Oenothera albicaulis,3,10
+A,3,sgs,pulse press 1,2021,Plantago patagonica,2,10
+A,3,sgs,pulse press 1,2021,Vulpia octoflora,1,10
+A,3,sgs,pulse press 1,2021,Elymus elymoides,3,10
+A,3,sgs,pulse press 1,2021,Lepidium densiflorum,1,10
+A,3,sgs,pulse press 1,2021,Euphorbia sp.,9,10
+A,3,sgs,pulse press 1,2021,Sphaeralcea coccinea,8,10
+A,3,sgs,pulse press 1,2021,Thelesperma filifolium,1,10
+A,3,sgs,pulse press 1,2021,Leucocrinum montanum,1,10
+A,4,sgs,pulse press 1,2021,Sphaeralcea coccinea,16,15
+A,4,sgs,pulse press 1,2021,Euphorbia sp.,10,15
+A,4,sgs,pulse press 1,2021,Oenothera albicaulis,1,15
+A,4,sgs,pulse press 1,2021,Plantago patagonica,2,15
+A,4,sgs,pulse press 1,2021,Thelesperma filifolium,3,15
+A,4,sgs,pulse press 1,2021,Chenopodium sp.,21,15
+A,4,sgs,pulse press 1,2021,Carex eleocharis,5,15
+A,4,sgs,pulse press 1,2021,Elymus elymoides,7,15
+A,4,sgs,pulse press 1,2021,Vulpia octoflora,2,15
+A,5,sgs,pulse press 1,2021,Elymus elymoides,75,5
+A,5,sgs,pulse press 1,2021,Vulpia octoflora,5,5
+A,5,sgs,pulse press 1,2021,Bromus tectorum,1,5
+A,5,sgs,pulse press 1,2021,Sporobolus cryptandrus,1,5
+A,5,sgs,pulse press 1,2021,Carex eleocharis,12,5
+A,5,sgs,pulse press 1,2021,Euphorbia sp.,14,5
+A,5,sgs,pulse press 1,2021,Sphaeralcea coccinea,6,5
+A,5,sgs,pulse press 1,2021,Chenopodium sp.,11,5
+A,6,sgs,pulse press 1,2021,Carex eleocharis,6,0
+A,6,sgs,pulse press 1,2021,Cryptantha minima,2,0
+A,6,sgs,pulse press 1,2021,Sisymbrium altissimum,30,0
+A,6,sgs,pulse press 1,2021,Sporobolus cryptandrus,1,0
+A,6,sgs,pulse press 1,2021,Mirabilis linearis,1,0
+A,6,sgs,pulse press 1,2021,Opuntia polyacantha,13,0
+A,6,sgs,pulse press 1,2021,Sphaeralcea coccinea,4,0
+A,6,sgs,pulse press 1,2021,Vulpia octoflora,65,0
+A,6,sgs,pulse press 1,2021,Elymus elymoides,17,0
+A,6,sgs,pulse press 1,2021,Bromus tectorum,4,0
+A,6,sgs,pulse press 1,2021,Bouteloua gracilis,1,0
+A,7,sgs,pulse press 1,2021,Sphaeralcea coccinea,4,7.5
+A,7,sgs,pulse press 1,2021,Vulpia octoflora,6,7.5
+A,7,sgs,pulse press 1,2021,Elymus elymoides,20,7.5
+A,7,sgs,pulse press 1,2021,Bromus tectorum,90,7.5
+A,8,sgs,pulse press 1,2021,Vulpia octoflora,90,2.5
+A,8,sgs,pulse press 1,2021,Carex eleocharis,1,2.5
+A,8,sgs,pulse press 1,2021,Sphaeralcea coccinea,1,2.5
+A,8,sgs,pulse press 1,2021,Elymus elymoides,31,2.5
+A,8,sgs,pulse press 1,2021,Sisymbrium altissimum,8,2.5
+B,10,sgs,pulse press 1,2021,Sphaeralcea coccinea,2,2.5
+B,10,sgs,pulse press 1,2021,Picradeniopsis oppositifolia,1,2.5
+B,10,sgs,pulse press 1,2021,Vulpia octoflora,90,2.5
+B,10,sgs,pulse press 1,2021,Chenopodium sp.,1,2.5
+B,10,sgs,pulse press 1,2021,Elymus elymoides,10,2.5
+B,10,sgs,pulse press 1,2021,Bromus tectorum,9,2.5
+B,11,sgs,pulse press 1,2021,Sisymbrium altissimum,18,7.5
+B,11,sgs,pulse press 1,2021,Euphorbia sp.,1,7.5
+B,11,sgs,pulse press 1,2021,Vulpia octoflora,15,7.5
+B,11,sgs,pulse press 1,2021,Carex eleocharis,18,7.5
+B,11,sgs,pulse press 1,2021,Chenopodium sp.,3,7.5
+B,11,sgs,pulse press 1,2021,Elymus elymoides,34,7.5
+B,11,sgs,pulse press 1,2021,Lepidium densiflorum,1,7.5
+B,11,sgs,pulse press 1,2021,Sphaeralcea coccinea,16,7.5
+B,11,sgs,pulse press 1,2021,Picradeniopsis oppositifolia,2,7.5
+B,12,sgs,pulse press 1,2021,Lepidium densiflorum,1,20
+B,12,sgs,pulse press 1,2021,Unknown forb 12,1,20
+B,12,sgs,pulse press 1,2021,Sporobolus cryptandrus,2,20
+B,12,sgs,pulse press 1,2021,Vulpia octoflora,1,20
+B,12,sgs,pulse press 1,2021,Carex eleocharis,2,20
+B,12,sgs,pulse press 1,2021,Oenothera albicaulis,1,20
+B,12,sgs,pulse press 1,2021,Plantago patagonica,1,20
+B,12,sgs,pulse press 1,2021,Bromus tectorum,5,20
+B,12,sgs,pulse press 1,2021,Elymus elymoides,17,20
+B,12,sgs,pulse press 1,2021,Eriogonum effusum,3,20
+B,12,sgs,pulse press 1,2021,Euphorbia sp.,2,20
+B,12,sgs,pulse press 1,2021,Chenopodium sp.,40,20
+B,13,sgs,pulse press 1,2021,Elymus elymoides,40,5
+B,13,sgs,pulse press 1,2021,Chenopodium sp.,3,5
+B,13,sgs,pulse press 1,2021,Vulpia octoflora,80,5
+B,13,sgs,pulse press 1,2021,Carex eleocharis,1,5
+B,13,sgs,pulse press 1,2021,Sphaeralcea coccinea,11,5
+B,13,sgs,pulse press 1,2021,Salsola tragus,1,5
+B,14,sgs,pulse press 1,2021,Chenopodium sp.,1,30
+B,14,sgs,pulse press 1,2021,Vulpia octoflora,1,30
+B,14,sgs,pulse press 1,2021,Bromus tectorum,100,30
+B,14,sgs,pulse press 1,2021,Carex eleocharis,1,30
+B,14,sgs,pulse press 1,2021,Elymus elymoides,6,30
+B,15,sgs,pulse press 1,2021,Sphaeralcea coccinea,2,10
+B,15,sgs,pulse press 1,2021,Carex eleocharis,7,10
+B,15,sgs,pulse press 1,2021,Elymus elymoides,15,10
+B,15,sgs,pulse press 1,2021,Vulpia octoflora,4,10
+B,15,sgs,pulse press 1,2021,Chenopodium sp.,55,10
+B,15,sgs,pulse press 1,2021,Bromus tectorum,75,10
+B,16,sgs,pulse press 1,2021,Elymus elymoides,25,15
+B,16,sgs,pulse press 1,2021,Chenopodium sp.,55,15
+B,16,sgs,pulse press 1,2021,Sisymbrium altissimum,2,15
+B,16,sgs,pulse press 1,2021,Euphorbia sp.,1,15
+B,16,sgs,pulse press 1,2021,Sphaeralcea coccinea,15,15
+B,16,sgs,pulse press 1,2021,Vulpia octoflora,1,15
+B,16,sgs,pulse press 1,2021,Sporobolus cryptandrus,1,15
+B,16,sgs,pulse press 1,2021,Oenothera albicaulis,1,15
+B,9,sgs,pulse press 1,2021,Carex eleocharis,5,0
+B,9,sgs,pulse press 1,2021,Vulpia octoflora,45,0
+B,9,sgs,pulse press 1,2021,Chenopodium sp.,1,0
+B,9,sgs,pulse press 1,2021,Opuntia polyacantha,8,0
+B,9,sgs,pulse press 1,2021,Plantago patagonica,1,0
+B,9,sgs,pulse press 1,2021,Sphaeralcea coccinea,37,0
+B,9,sgs,pulse press 1,2021,Bouteloua gracilis,1,0
+B,9,sgs,pulse press 1,2021,Elymus elymoides,12,0
+C,17,sgs,pulse press 1,2021,Sphaeralcea coccinea,3,5
+C,17,sgs,pulse press 1,2021,Thelesperma filifolium,2,5
+C,17,sgs,pulse press 1,2021,Carex eleocharis,3,5
+C,17,sgs,pulse press 1,2021,Chenopodium sp.,2,5
+C,17,sgs,pulse press 1,2021,Lepidium densiflorum,1,5
+C,17,sgs,pulse press 1,2021,Vulpia octoflora,15,5
+C,17,sgs,pulse press 1,2021,Elymus elymoides,35,5
+C,17,sgs,pulse press 1,2021,Bromus tectorum,1,5
+C,18,sgs,pulse press 1,2021,Bouteloua gracilis,1,20
+C,18,sgs,pulse press 1,2021,Elymus elymoides,20,20
+C,18,sgs,pulse press 1,2021,Oenothera albicaulis,2,20
+C,18,sgs,pulse press 1,2021,Vulpia octoflora,1,20
+C,18,sgs,pulse press 1,2021,Chenopodium sp.,28,20
+C,18,sgs,pulse press 1,2021,Sphaeralcea coccinea,1,20
+C,18,sgs,pulse press 1,2021,Sisymbrium altissimum,2,20
+C,19,sgs,pulse press 1,2021,Elymus elymoides,60,10
+C,19,sgs,pulse press 1,2021,Vulpia octoflora,9,10
+C,19,sgs,pulse press 1,2021,Carex eleocharis,4,10
+C,19,sgs,pulse press 1,2021,Sisymbrium altissimum,60,10
+C,19,sgs,pulse press 1,2021,Salsola tragus,1,10
+C,19,sgs,pulse press 1,2021,Oenothera albicaulis,1,10
+C,20,sgs,pulse press 1,2021,Sisymbrium altissimum,1,30
+C,20,sgs,pulse press 1,2021,Salsola tragus,30,30
+C,20,sgs,pulse press 1,2021,Bouteloua gracilis,1,30
+C,20,sgs,pulse press 1,2021,Lepidium densiflorum,1,30
+C,20,sgs,pulse press 1,2021,Elymus elymoides,13,30
+C,20,sgs,pulse press 1,2021,Bromus tectorum,75,30
+C,21,sgs,pulse press 1,2021,Sphaeralcea coccinea,1,0
+C,21,sgs,pulse press 1,2021,Picradeniopsis oppositifolia,3,0
+C,21,sgs,pulse press 1,2021,Opuntia polyacantha,4,0
+C,21,sgs,pulse press 1,2021,Carex eleocharis,7,0
+C,21,sgs,pulse press 1,2021,Vulpia octoflora,50,0
+C,21,sgs,pulse press 1,2021,Bouteloua gracilis,1,0
+C,21,sgs,pulse press 1,2021,Elymus elymoides,35,0
+C,22,sgs,pulse press 1,2021,Salsola tragus,9,2.5
+C,22,sgs,pulse press 1,2021,Sisymbrium altissimum,8,2.5
+C,22,sgs,pulse press 1,2021,Vulpia octoflora,40,2.5
+C,22,sgs,pulse press 1,2021,Elymus elymoides,35,2.5
+C,22,sgs,pulse press 1,2021,Sphaeralcea coccinea,2,2.5
+C,22,sgs,pulse press 1,2021,Bouteloua gracilis,1,2.5
+C,22,sgs,pulse press 1,2021,Bromus tectorum,8,2.5
+C,23,sgs,pulse press 1,2021,Sisymbrium altissimum,85,7.5
+C,23,sgs,pulse press 1,2021,Oenothera albicaulis,1,7.5
+C,23,sgs,pulse press 1,2021,Bromus tectorum,5,7.5
+C,23,sgs,pulse press 1,2021,Vulpia octoflora,8,7.5
+C,23,sgs,pulse press 1,2021,Elymus elymoides,3,7.5
+C,23,sgs,pulse press 1,2021,Chenopodium sp.,9,7.5
+C,23,sgs,pulse press 1,2021,Psoralea tenuiflora,15,7.5
+C,23,sgs,pulse press 1,2021,Cryptantha minima,8,7.5
+C,23,sgs,pulse press 1,2021,Euphorbia sp.,6,7.5
+C,24,sgs,pulse press 1,2021,Sisymbrium altissimum,30,15
+C,24,sgs,pulse press 1,2021,Euphorbia sp.,2,15
+C,24,sgs,pulse press 1,2021,Oenothera albicaulis,1,15
+C,24,sgs,pulse press 1,2021,Elymus elymoides,35,15
+C,24,sgs,pulse press 1,2021,Chenopodium sp.,35,15
+C,24,sgs,pulse press 1,2021,Vulpia octoflora,1,15
+D,25,sgs,pulse press 1,2021,Elymus elymoides,25,2.5
+D,25,sgs,pulse press 1,2021,Bromus tectorum,1,2.5
+D,25,sgs,pulse press 1,2021,Vulpia octoflora,70,2.5
+D,25,sgs,pulse press 1,2021,Sphaeralcea coccinea,3,2.5
+D,26,sgs,pulse press 1,2021,Elymus elymoides,35,5
+D,26,sgs,pulse press 1,2021,Oenothera albicaulis,1,5
+D,26,sgs,pulse press 1,2021,Opuntia polyacantha,7,5
+D,26,sgs,pulse press 1,2021,Sphaeralcea coccinea,12,5
+D,26,sgs,pulse press 1,2021,Vulpia octoflora,20,5
+D,26,sgs,pulse press 1,2021,Chenopodium sp.,8,5
+D,26,sgs,pulse press 1,2021,Euphorbia sp.,2,5
+D,27,sgs,pulse press 1,2021,Euphorbia sp.,3,15
+D,27,sgs,pulse press 1,2021,Mirabilis linearis,1,15
+D,27,sgs,pulse press 1,2021,Eriogonum effusum,8,15
+D,27,sgs,pulse press 1,2021,Sphaeralcea coccinea,10,15
+D,27,sgs,pulse press 1,2021,Carex eleocharis,1,15
+D,27,sgs,pulse press 1,2021,Chenopodium sp.,2,15
+D,27,sgs,pulse press 1,2021,Elymus elymoides,45,15
+D,27,sgs,pulse press 1,2021,Vulpia octoflora,1,15
+D,28,sgs,pulse press 1,2021,Elymus elymoides,38,7.5
+D,28,sgs,pulse press 1,2021,Chenopodium sp.,13,7.5
+D,28,sgs,pulse press 1,2021,Euphorbia sp.,8,7.5
+D,28,sgs,pulse press 1,2021,Vulpia octoflora,3,7.5
+D,28,sgs,pulse press 1,2021,Sphaeralcea coccinea,4,7.5
+D,29,sgs,pulse press 1,2021,Thelesperma filifolium,1,30
+D,29,sgs,pulse press 1,2021,Elymus elymoides,17,30
+D,29,sgs,pulse press 1,2021,Sporobolus cryptandrus,1,30
+D,29,sgs,pulse press 1,2021,Chenopodium sp.,18,30
+D,29,sgs,pulse press 1,2021,Sphaeralcea coccinea,15,30
+D,29,sgs,pulse press 1,2021,Euphorbia sp.,5,30
+D,30,sgs,pulse press 1,2021,Bouteloua gracilis,2,0
+D,30,sgs,pulse press 1,2021,Elymus elymoides,37,0
+D,30,sgs,pulse press 1,2021,Vulpia octoflora,80,0
+D,30,sgs,pulse press 1,2021,Sporobolus cryptandrus,2,0
+D,30,sgs,pulse press 1,2021,Mirabilis linearis,1,0
+D,30,sgs,pulse press 1,2021,Sphaeralcea coccinea,1,0
+D,31,sgs,pulse press 1,2021,Bromus tectorum,55,10
+D,31,sgs,pulse press 1,2021,Elymus elymoides,40,10
+D,31,sgs,pulse press 1,2021,Sphaeralcea coccinea,3,10
+D,31,sgs,pulse press 1,2021,Vulpia octoflora,1,10
+D,31,sgs,pulse press 1,2021,Oenothera albicaulis,2,10
+D,31,sgs,pulse press 1,2021,Euphorbia sp.,22,10
+D,31,sgs,pulse press 1,2021,Chenopodium sp.,1,10
+D,32,sgs,pulse press 1,2021,Sisymbrium altissimum,10,20
+D,32,sgs,pulse press 1,2021,Vulpia octoflora,1,20
+D,32,sgs,pulse press 1,2021,Chenopodium sp.,3,20
+D,32,sgs,pulse press 1,2021,Euphorbia sp.,1,20
+D,32,sgs,pulse press 1,2021,Lepidium densiflorum,1,20
+D,32,sgs,pulse press 1,2021,Sphaeralcea coccinea,3,20
+D,32,sgs,pulse press 1,2021,Bromus tectorum,1,20
+D,32,sgs,pulse press 1,2021,Elymus elymoides,40,20
+E,33,sgs,pulse press 1,2021,Bromus tectorum,2,0
+E,33,sgs,pulse press 1,2021,Elymus elymoides,6,0
+E,33,sgs,pulse press 1,2021,Vulpia octoflora,90,0
+E,33,sgs,pulse press 1,2021,Chenopodium sp.,13,0
+E,33,sgs,pulse press 1,2021,Eriogonum effusum,5,0
+E,33,sgs,pulse press 1,2021,Euphorbia sp.,8,0
+E,33,sgs,pulse press 1,2021,Lepidium densiflorum,1,0
+E,33,sgs,pulse press 1,2021,Sphaeralcea coccinea,8,0
+E,33,sgs,pulse press 1,2021,Lappula sp.,1,0
+E,33,sgs,pulse press 1,2021,Lygodesmia juncea,3,0
+E,33,sgs,pulse press 1,2021,Plantago patagonica,1,0
+E,34,sgs,pulse press 1,2021,Elymus elymoides,25,20
+E,34,sgs,pulse press 1,2021,Chenopodium sp.,45,20
+E,34,sgs,pulse press 1,2021,Euphorbia sp.,3,20
+E,34,sgs,pulse press 1,2021,Bouteloua gracilis,1,20
+E,34,sgs,pulse press 1,2021,Lepidium densiflorum,1,20
+E,34,sgs,pulse press 1,2021,Sphaeralcea coccinea,3,20
+E,35,sgs,pulse press 1,2021,Carex eleocharis,1,30
+E,35,sgs,pulse press 1,2021,Chenopodium sp.,15,30
+E,35,sgs,pulse press 1,2021,Sphaeralcea coccinea,2,30
+E,35,sgs,pulse press 1,2021,Elymus elymoides,55,30
+E,35,sgs,pulse press 1,2021,Vulpia octoflora,1,30
+E,35,sgs,pulse press 1,2021,Euphorbia sp.,4,30
+E,35,sgs,pulse press 1,2021,Oenothera albicaulis,1,30
+E,36,sgs,pulse press 1,2021,Elymus elymoides,70,5
+E,36,sgs,pulse press 1,2021,Vulpia octoflora,1,5
+E,36,sgs,pulse press 1,2021,Sphaeralcea coccinea,3,5
+E,36,sgs,pulse press 1,2021,Opuntia polyacantha,3,5
+E,37,sgs,pulse press 1,2021,Elymus elymoides,45,2.5
+E,37,sgs,pulse press 1,2021,Bromus tectorum,25,2.5
+E,37,sgs,pulse press 1,2021,Leucocrinum montanum,2,2.5
+E,37,sgs,pulse press 1,2021,Bouteloua gracilis,1,2.5
+E,37,sgs,pulse press 1,2021,Vulpia octoflora,50,2.5
+E,37,sgs,pulse press 1,2021,Sphaeralcea coccinea,4,2.5
+E,37,sgs,pulse press 1,2021,Salsola tragus,2,2.5
+E,37,sgs,pulse press 1,2021,Euphorbia sp.,2,2.5
+E,37,sgs,pulse press 1,2021,Sisymbrium altissimum,6,2.5
+E,38,sgs,pulse press 1,2021,Sisymbrium altissimum,10,15
+E,38,sgs,pulse press 1,2021,Salsola tragus,3,15
+E,38,sgs,pulse press 1,2021,Chenopodium sp.,60,15
+E,38,sgs,pulse press 1,2021,Euphorbia sp.,5,15
+E,38,sgs,pulse press 1,2021,Carex eleocharis,2,15
+E,38,sgs,pulse press 1,2021,Plantago patagonica,1,15
+E,38,sgs,pulse press 1,2021,Sphaeralcea coccinea,13,15
+E,38,sgs,pulse press 1,2021,Oenothera albicaulis,1,15
+E,38,sgs,pulse press 1,2021,Elymus elymoides,2,15
+E,38,sgs,pulse press 1,2021,Bouteloua gracilis,1,15
+E,39,sgs,pulse press 1,2021,Bouteloua gracilis,1,7.5
+E,39,sgs,pulse press 1,2021,Elymus elymoides,25,7.5
+E,39,sgs,pulse press 1,2021,Vulpia octoflora,4,7.5
+E,39,sgs,pulse press 1,2021,Euphorbia sp.,17,7.5
+E,39,sgs,pulse press 1,2021,Sisymbrium altissimum,7,7.5
+E,39,sgs,pulse press 1,2021,Salsola tragus,7,7.5
+E,39,sgs,pulse press 1,2021,Sporobolus cryptandrus,10,7.5
+E,39,sgs,pulse press 1,2021,Chenopodium sp.,40,7.5
+E,39,sgs,pulse press 1,2021,Plantago patagonica,1,7.5
+E,39,sgs,pulse press 1,2021,Sphaeralcea coccinea,16,7.5
+E,39,sgs,pulse press 1,2021,Carex eleocharis,3,7.5
+E,39,sgs,pulse press 1,2021,Lepidium densiflorum,1,7.5
+E,39,sgs,pulse press 1,2021,Artemisia frigida,1,7.5
+E,39,sgs,pulse press 1,2021,Oenothera albicaulis,5,7.5
+E,40,sgs,pulse press 1,2021,Plantago patagonica,1,10
+E,40,sgs,pulse press 1,2021,Sphaeralcea coccinea,9,10
+E,40,sgs,pulse press 1,2021,Salsola tragus,15,10
+E,40,sgs,pulse press 1,2021,Ipomopsis laxiflora,2,10
+E,40,sgs,pulse press 1,2021,Conyza canadensis,2,10
+E,40,sgs,pulse press 1,2021,Carex eleocharis,6,10
+E,40,sgs,pulse press 1,2021,Euphorbia sp.,16,10
+E,40,sgs,pulse press 1,2021,Opuntia polyacantha,13,10
+E,40,sgs,pulse press 1,2021,Lepidium densiflorum,1,10
+E,40,sgs,pulse press 1,2021,Vulpia octoflora,1,10
+E,40,sgs,pulse press 1,2021,Elymus elymoides,12,10
+E,40,sgs,pulse press 1,2021,Bouteloua gracilis,6,10
+F,41,sgs,pulse press 1,2021,Bromus tectorum,30,20
+F,41,sgs,pulse press 1,2021,Elymus elymoides,32,20
+F,41,sgs,pulse press 1,2021,Vulpia octoflora,1,20
+F,41,sgs,pulse press 1,2021,Sphaeralcea coccinea,2,20
+F,41,sgs,pulse press 1,2021,Euphorbia sp.,2,20
+F,41,sgs,pulse press 1,2021,Lepidium densiflorum,1,20
+F,41,sgs,pulse press 1,2021,Oenothera albicaulis,1,20
+F,41,sgs,pulse press 1,2021,Opuntia polyacantha,2,20
+F,42,sgs,pulse press 1,2021,Unknown grass 11,1,30
+F,42,sgs,pulse press 1,2021,Bromus tectorum,60,30
+F,42,sgs,pulse press 1,2021,Elymus elymoides,15,30
+F,43,sgs,pulse press 1,2021,Chenopodium sp.,3,5
+F,43,sgs,pulse press 1,2021,Carex eleocharis,1,5
+F,43,sgs,pulse press 1,2021,Eriogonum effusum,2,5
+F,43,sgs,pulse press 1,2021,Sporobolus cryptandrus,1,5
+F,43,sgs,pulse press 1,2021,Euphorbia sp.,1,5
+F,43,sgs,pulse press 1,2021,Elymus elymoides,40,5
+F,43,sgs,pulse press 1,2021,Plantago patagonica,1,5
+F,43,sgs,pulse press 1,2021,Sisymbrium altissimum,1,5
+F,44,sgs,pulse press 1,2021,Bromus tectorum,1,10
+F,44,sgs,pulse press 1,2021,Elymus elymoides,35,10
+F,44,sgs,pulse press 1,2021,Carex eleocharis,1,10
+F,44,sgs,pulse press 1,2021,Sphaeralcea coccinea,13,10
+F,44,sgs,pulse press 1,2021,Chenopodium sp.,2,10
+F,44,sgs,pulse press 1,2021,Euphorbia sp.,4,10
+F,44,sgs,pulse press 1,2021,Plantago patagonica,1,10
+F,45,sgs,pulse press 1,2021,Bromus tectorum,3,0
+F,45,sgs,pulse press 1,2021,Elymus elymoides,50,0
+F,45,sgs,pulse press 1,2021,Bouteloua gracilis,1,0
+F,45,sgs,pulse press 1,2021,Vulpia octoflora,75,0
+F,45,sgs,pulse press 1,2021,Carex eleocharis,3,0
+F,45,sgs,pulse press 1,2021,Chenopodium sp.,1,0
+F,45,sgs,pulse press 1,2021,Sphaeralcea coccinea,4,0
+F,46,sgs,pulse press 1,2021,Carex eleocharis,1,7.5
+F,46,sgs,pulse press 1,2021,Vulpia octoflora,1,7.5
+F,46,sgs,pulse press 1,2021,Elymus elymoides,40,7.5
+F,46,sgs,pulse press 1,2021,Bromus tectorum,70,7.5
+F,47,sgs,pulse press 1,2021,Sporobolus cryptandrus,1,15
+F,47,sgs,pulse press 1,2021,Elymus elymoides,55,15
+F,47,sgs,pulse press 1,2021,Vulpia octoflora,2,15
+F,47,sgs,pulse press 1,2021,Euphorbia sp.,1,15
+F,47,sgs,pulse press 1,2021,Chenopodium sp.,13,15
+F,47,sgs,pulse press 1,2021,Sphaeralcea coccinea,2,15
+F,47,sgs,pulse press 1,2021,Salsola tragus,1,15
+F,48,sgs,pulse press 1,2021,Bromus tectorum,1,2.5
+F,48,sgs,pulse press 1,2021,Elymus elymoides,55,2.5
+F,48,sgs,pulse press 1,2021,Vulpia octoflora,65,2.5
+F,48,sgs,pulse press 1,2021,Opuntia polyacantha,2,2.5
+F,48,sgs,pulse press 1,2021,Sphaeralcea coccinea,4,2.5
+A,1,sgs,nitrogen,2022,Elymus elymoides,1,30
+A,1,sgs,nitrogen,2022,Sisymbrium altissimum,3,30
+A,1,sgs,nitrogen,2022,Carex eleocharis,1,30
+A,1,sgs,nitrogen,2022,Salsola tragus,8,30
+A,1,sgs,nitrogen,2022,Cryptantha minima,1,30
+A,1,sgs,nitrogen,2022,Chenopodium sp.,11,30
+A,2,sgs,nitrogen,2022,Lepidium densiflorum,1,20
+A,2,sgs,nitrogen,2022,Salsola tragus,10,20
+A,2,sgs,nitrogen,2022,Chenopodium sp.,7,20
+A,2,sgs,nitrogen,2022,Sisymbrium altissimum,3,20
+A,2,sgs,nitrogen,2022,Sphaeralcea coccinea,5,20
+A,2,sgs,nitrogen,2022,Elymus elymoides,1,20
+A,3,sgs,nitrogen,2022,Chenopodium sp.,6,10
+A,3,sgs,nitrogen,2022,Carex eleocharis,3,10
+A,3,sgs,nitrogen,2022,Plantago patagonica,1,10
+A,3,sgs,nitrogen,2022,Salsola tragus,5,10
+A,3,sgs,nitrogen,2022,Elymus elymoides,1,10
+A,3,sgs,nitrogen,2022,Sisymbrium altissimum,1,10
+A,3,sgs,nitrogen,2022,Sphaeralcea coccinea,7,10
+A,4,sgs,nitrogen,2022,Elymus elymoides,3,15
+A,4,sgs,nitrogen,2022,Carex eleocharis,5,15
+A,4,sgs,nitrogen,2022,Sphaeralcea coccinea,3,15
+A,4,sgs,nitrogen,2022,Chenopodium sp.,12,15
+A,4,sgs,nitrogen,2022,Sisymbrium altissimum,1,15
+A,4,sgs,nitrogen,2022,Salsola tragus,5,15
+A,4,sgs,nitrogen,2022,Plantago patagonica,1,15
+A,5,sgs,nitrogen,2022,Bromus tectorum,3,5
+A,5,sgs,nitrogen,2022,Sphaeralcea coccinea,1,5
+A,5,sgs,nitrogen,2022,Picradeniopsis oppositifolia,2,5
+A,5,sgs,nitrogen,2022,Chenopodium sp.,4,5
+A,5,sgs,nitrogen,2022,Elymus elymoides,1,5
+A,5,sgs,nitrogen,2022,Carex eleocharis,1,5
+A,6,sgs,nitrogen,2022,Bouteloua gracilis,1,0
+A,6,sgs,nitrogen,2022,Bromus tectorum,4,0
+A,6,sgs,nitrogen,2022,Carex eleocharis,4,0
+A,6,sgs,nitrogen,2022,Carex filifolia,2,0
+A,6,sgs,nitrogen,2022,Chenopodium sp.,5,0
+A,6,sgs,nitrogen,2022,Opuntia polyacantha,9,0
+A,6,sgs,nitrogen,2022,Elymus elymoides,6,0
+A,6,sgs,nitrogen,2022,Sporobolus cryptandrus,3,0
+A,6,sgs,nitrogen,2022,Salsola tragus,15,0
+A,6,sgs,nitrogen,2022,Sisymbrium altissimum,4,0
+A,6,sgs,nitrogen,2022,Sphaeralcea coccinea,1,0
+A,7,sgs,nitrogen,2022,Bromus tectorum,2,7.5
+A,7,sgs,nitrogen,2022,Elymus elymoides,4,7.5
+A,7,sgs,nitrogen,2022,Carex eleocharis,2,7.5
+A,7,sgs,nitrogen,2022,Chenopodium sp.,7,7.5
+A,7,sgs,nitrogen,2022,Sisymbrium altissimum,1,7.5
+A,7,sgs,nitrogen,2022,Sphaeralcea coccinea,7,7.5
+A,8,sgs,nitrogen,2022,Tragopogon dubius,1,2.5
+A,8,sgs,nitrogen,2022,Sphaeralcea coccinea,3,2.5
+A,8,sgs,nitrogen,2022,Elymus elymoides,6,2.5
+A,8,sgs,nitrogen,2022,Chenopodium sp.,14,2.5
+A,8,sgs,nitrogen,2022,Salsola tragus,13,2.5
+A,8,sgs,nitrogen,2022,Sisymbrium altissimum,5,2.5
+B,10,sgs,nitrogen,2022,Elymus elymoides,14,2.5
+B,10,sgs,nitrogen,2022,Bromus tectorum,7,2.5
+B,10,sgs,nitrogen,2022,Chenopodium sp.,3,2.5
+B,10,sgs,nitrogen,2022,Salsola tragus,7,2.5
+B,10,sgs,nitrogen,2022,Sisymbrium altissimum,2,2.5
+B,10,sgs,nitrogen,2022,Sphaeralcea coccinea,6,2.5
+B,11,sgs,nitrogen,2022,Sphaeralcea coccinea,8,7.5
+B,11,sgs,nitrogen,2022,Sisymbrium altissimum,1,7.5
+B,11,sgs,nitrogen,2022,Salsola tragus,7,7.5
+B,11,sgs,nitrogen,2022,Opuntia polyacantha,3,7.5
+B,11,sgs,nitrogen,2022,Chenopodium sp.,25,7.5
+B,11,sgs,nitrogen,2022,Elymus elymoides,3,7.5
+B,12,sgs,nitrogen,2022,Carex eleocharis,1,20
+B,12,sgs,nitrogen,2022,Chenopodium sp.,28,20
+B,12,sgs,nitrogen,2022,Sisymbrium altissimum,2,20
+B,12,sgs,nitrogen,2022,Salsola tragus,1,20
+B,13,sgs,nitrogen,2022,Sphaeralcea coccinea,13,5
+B,13,sgs,nitrogen,2022,Elymus elymoides,5,5
+B,13,sgs,nitrogen,2022,Chenopodium sp.,6,5
+B,13,sgs,nitrogen,2022,Sisymbrium altissimum,1,5
+B,13,sgs,nitrogen,2022,Coryphantha vivipara,1,5
+B,14,sgs,nitrogen,2022,Chenopodium sp.,2,30
+B,14,sgs,nitrogen,2022,Bromus tectorum,5,30
+B,15,sgs,nitrogen,2022,Sisymbrium altissimum,2,10
+B,15,sgs,nitrogen,2022,Salsola tragus,1,10
+B,15,sgs,nitrogen,2022,Sphaeralcea coccinea,1,10
+B,15,sgs,nitrogen,2022,Lepidium densiflorum,2,10
+B,15,sgs,nitrogen,2022,Chenopodium sp.,17,10
+B,15,sgs,nitrogen,2022,Cryptantha minima,1,10
+B,15,sgs,nitrogen,2022,Bromus tectorum,6,10
+B,15,sgs,nitrogen,2022,Elymus elymoides,1,10
+B,16,sgs,nitrogen,2022,Salsola tragus,17,15
+B,16,sgs,nitrogen,2022,Chenopodium sp.,11,15
+B,16,sgs,nitrogen,2022,Bromus tectorum,1,15
+B,16,sgs,nitrogen,2022,Sisymbrium altissimum,2,15
+B,16,sgs,nitrogen,2022,Sphaeralcea coccinea,1,15
+B,9,sgs,nitrogen,2022,Elymus elymoides,9,0
+B,9,sgs,nitrogen,2022,Carex eleocharis,7,0
+B,9,sgs,nitrogen,2022,Opuntia polyacantha,1,0
+B,9,sgs,nitrogen,2022,Sphaeralcea coccinea,9,0
+B,9,sgs,nitrogen,2022,Salsola tragus,4,0
+C,17,sgs,nitrogen,2022,Sisymbrium altissimum,1,5
+C,17,sgs,nitrogen,2022,Chenopodium sp.,7,5
+C,17,sgs,nitrogen,2022,Elymus elymoides,8,5
+C,17,sgs,nitrogen,2022,Carex eleocharis,1,5
+C,17,sgs,nitrogen,2022,Salsola tragus,6,5
+C,17,sgs,nitrogen,2022,Sphaeralcea coccinea,3,5
+C,18,sgs,nitrogen,2022,Salsola tragus,8,20
+C,18,sgs,nitrogen,2022,Sphaeralcea coccinea,7,20
+C,18,sgs,nitrogen,2022,Elymus elymoides,4,20
+C,18,sgs,nitrogen,2022,Chenopodium sp.,9,20
+C,19,sgs,nitrogen,2022,Sphaeralcea coccinea,2,10
+C,19,sgs,nitrogen,2022,Sisymbrium altissimum,2,10
+C,19,sgs,nitrogen,2022,Chenopodium sp.,19,10
+C,19,sgs,nitrogen,2022,Picradeniopsis oppositifolia,2,10
+C,19,sgs,nitrogen,2022,Salsola tragus,7,10
+C,19,sgs,nitrogen,2022,Elymus elymoides,4,10
+C,20,sgs,nitrogen,2022,Elymus elymoides,2,30
+C,20,sgs,nitrogen,2022,Chenopodium sp.,9,30
+C,20,sgs,nitrogen,2022,Sisymbrium altissimum,2,30
+C,20,sgs,nitrogen,2022,Salsola tragus,9,30
+C,21,sgs,nitrogen,2022,Elymus elymoides,24,0
+C,21,sgs,nitrogen,2022,Sporobolus cryptandrus,3,0
+C,21,sgs,nitrogen,2022,Chenopodium sp.,4,0
+C,21,sgs,nitrogen,2022,Sisymbrium altissimum,1,0
+C,21,sgs,nitrogen,2022,Salsola tragus,3,0
+C,21,sgs,nitrogen,2022,Sphaeralcea coccinea,2,0
+C,21,sgs,nitrogen,2022,Tragopogon dubius,1,0
+C,21,sgs,nitrogen,2022,Carex eleocharis,1,0
+C,22,sgs,nitrogen,2022,Carex eleocharis,11,2.5
+C,22,sgs,nitrogen,2022,Chenopodium sp.,1,2.5
+C,22,sgs,nitrogen,2022,Picradeniopsis oppositifolia,1,2.5
+C,22,sgs,nitrogen,2022,Sisymbrium altissimum,1,2.5
+C,22,sgs,nitrogen,2022,Elymus elymoides,17,2.5
+C,22,sgs,nitrogen,2022,Salsola tragus,1,2.5
+C,23,sgs,nitrogen,2022,Bromus tectorum,1,7.5
+C,23,sgs,nitrogen,2022,Elymus elymoides,1,7.5
+C,23,sgs,nitrogen,2022,Sphaeralcea coccinea,1,7.5
+C,23,sgs,nitrogen,2022,Sisymbrium altissimum,10,7.5
+C,23,sgs,nitrogen,2022,Chenopodium sp.,35,7.5
+C,23,sgs,nitrogen,2022,Salsola tragus,14,7.5
+C,24,sgs,nitrogen,2022,Elymus elymoides,1,15
+C,24,sgs,nitrogen,2022,Sphaeralcea coccinea,1,15
+C,24,sgs,nitrogen,2022,Sisymbrium altissimum,3,15
+C,24,sgs,nitrogen,2022,Chenopodium sp.,18,15
+C,24,sgs,nitrogen,2022,Salsola tragus,6,15
+C,24,sgs,nitrogen,2022,Bromus tectorum,1,15
+D,25,sgs,nitrogen,2022,Elymus elymoides,15,2.5
+D,25,sgs,nitrogen,2022,Ericameria nauseosa,15,2.5
+D,25,sgs,nitrogen,2022,Euphorbia sp.,3,2.5
+D,25,sgs,nitrogen,2022,Picradeniopsis oppositifolia,1,2.5
+D,25,sgs,nitrogen,2022,Salsola tragus,25,2.5
+D,25,sgs,nitrogen,2022,Sisymbrium altissimum,2,2.5
+D,26,sgs,nitrogen,2022,Elymus elymoides,22,5
+D,26,sgs,nitrogen,2022,Salsola tragus,4,5
+D,26,sgs,nitrogen,2022,Sphaeralcea coccinea,2,5
+D,27,sgs,nitrogen,2022,Elymus elymoides,7,15
+D,27,sgs,nitrogen,2022,Chenopodium sp.,26,15
+D,27,sgs,nitrogen,2022,Sisymbrium altissimum,1,15
+D,27,sgs,nitrogen,2022,Sphaeralcea coccinea,1,15
+D,27,sgs,nitrogen,2022,Salsola tragus,2,15
+D,28,sgs,nitrogen,2022,Sphaeralcea coccinea,2,7.5
+D,28,sgs,nitrogen,2022,Opuntia polyacantha,1,7.5
+D,28,sgs,nitrogen,2022,Salsola tragus,15,7.5
+D,28,sgs,nitrogen,2022,Sisymbrium altissimum,1,7.5
+D,28,sgs,nitrogen,2022,Chenopodium sp.,9,7.5
+D,28,sgs,nitrogen,2022,Elymus elymoides,8,7.5
+D,29,sgs,nitrogen,2022,Elymus elymoides,1,30
+D,29,sgs,nitrogen,2022,Chenopodium sp.,20,30
+D,29,sgs,nitrogen,2022,Salsola tragus,4,30
+D,29,sgs,nitrogen,2022,Sisymbrium altissimum,1,30
+D,29,sgs,nitrogen,2022,Sphaeralcea coccinea,2,30
+D,30,sgs,nitrogen,2022,Scutellaria galericulata,7,0
+D,30,sgs,nitrogen,2022,Bouteloua gracilis,1,0
+D,30,sgs,nitrogen,2022,Elymus elymoides,12,0
+D,30,sgs,nitrogen,2022,Salsola tragus,1,0
+D,30,sgs,nitrogen,2022,Sphaeralcea coccinea,2,0
+D,31,sgs,nitrogen,2022,Chenopodium sp.,11,10
+D,31,sgs,nitrogen,2022,Eriogonum effusum,3,10
+D,31,sgs,nitrogen,2022,Carex eleocharis,2,10
+D,31,sgs,nitrogen,2022,Sisymbrium altissimum,1,10
+D,31,sgs,nitrogen,2022,Sphaeralcea coccinea,1,10
+D,31,sgs,nitrogen,2022,Elymus elymoides,12,10
+D,32,sgs,nitrogen,2022,Sphaeralcea coccinea,3,20
+D,32,sgs,nitrogen,2022,Elymus elymoides,3,20
+D,32,sgs,nitrogen,2022,Chenopodium sp.,23,20
+D,32,sgs,nitrogen,2022,Sisymbrium altissimum,1,20
+E,33,sgs,nitrogen,2022,Chenopodium sp.,7,0
+E,33,sgs,nitrogen,2022,Cryptantha minima,1,0
+E,33,sgs,nitrogen,2022,Euphorbia sp.,1,0
+E,33,sgs,nitrogen,2022,Mirabilis linearis,1,0
+E,33,sgs,nitrogen,2022,Opuntia polyacantha,5,0
+E,33,sgs,nitrogen,2022,Salsola tragus,7,0
+E,33,sgs,nitrogen,2022,Sisymbrium altissimum,3,0
+E,33,sgs,nitrogen,2022,Sphaeralcea coccinea,1,0
+E,33,sgs,nitrogen,2022,Agropyron smithii,10,0
+E,33,sgs,nitrogen,2022,Bouteloua gracilis,1,0
+E,33,sgs,nitrogen,2022,Vulpia octoflora,2,0
+E,33,sgs,nitrogen,2022,Carex eleocharis,5,0
+E,34,sgs,nitrogen,2022,Agropyron smithii,4,20
+E,34,sgs,nitrogen,2022,Chenopodium sp.,5,20
+E,34,sgs,nitrogen,2022,Sphaeralcea coccinea,1,20
+E,34,sgs,nitrogen,2022,Lygodesmia juncea,2,20
+E,34,sgs,nitrogen,2022,Sisymbrium altissimum,1,20
+E,35,sgs,nitrogen,2022,Chenopodium sp.,14,30
+E,35,sgs,nitrogen,2022,Salsola tragus,3,30
+E,35,sgs,nitrogen,2022,Sisymbrium altissimum,1,30
+E,36,sgs,nitrogen,2022,Elymus elymoides,12,5
+E,36,sgs,nitrogen,2022,Opuntia polyacantha,7,5
+E,36,sgs,nitrogen,2022,Sisymbrium altissimum,1,5
+E,36,sgs,nitrogen,2022,Carex eleocharis,6,5
+E,36,sgs,nitrogen,2022,Chenopodium sp.,6,5
+E,36,sgs,nitrogen,2022,Sphaeralcea coccinea,3,5
+E,37,sgs,nitrogen,2022,Elymus elymoides,17,2.5
+E,37,sgs,nitrogen,2022,Bromus tectorum,1,2.5
+E,37,sgs,nitrogen,2022,Chenopodium sp.,4,2.5
+E,37,sgs,nitrogen,2022,Picradeniopsis oppositifolia,3,2.5
+E,37,sgs,nitrogen,2022,Sisymbrium altissimum,1,2.5
+E,37,sgs,nitrogen,2022,Salsola tragus,10,2.5
+E,37,sgs,nitrogen,2022,Sphaeralcea coccinea,3,2.5
+E,37,sgs,nitrogen,2022,Tragopogon dubius,1,2.5
+E,37,sgs,nitrogen,2022,Carex eleocharis,3,2.5
+E,38,sgs,nitrogen,2022,Elymus elymoides,1,15
+E,38,sgs,nitrogen,2022,Sphaeralcea coccinea,3,15
+E,38,sgs,nitrogen,2022,Chenopodium sp.,26,15
+E,38,sgs,nitrogen,2022,Sisymbrium altissimum,1,15
+E,38,sgs,nitrogen,2022,Salsola tragus,2,15
+E,39,sgs,nitrogen,2022,Sporobolus cryptandrus,1,7.5
+E,39,sgs,nitrogen,2022,Chenopodium sp.,20,7.5
+E,39,sgs,nitrogen,2022,Elymus elymoides,2,7.5
+E,39,sgs,nitrogen,2022,Sisymbrium altissimum,1,7.5
+E,39,sgs,nitrogen,2022,Sphaeralcea coccinea,3,7.5
+E,40,sgs,nitrogen,2022,Sphaeralcea coccinea,2,10
+E,40,sgs,nitrogen,2022,Opuntia polyacantha,10,10
+E,40,sgs,nitrogen,2022,Salsola tragus,6,10
+E,40,sgs,nitrogen,2022,Lepidium densiflorum,1,10
+E,40,sgs,nitrogen,2022,Sisymbrium altissimum,1,10
+E,40,sgs,nitrogen,2022,Carex eleocharis,2,10
+E,40,sgs,nitrogen,2022,Chenopodium sp.,6,10
+E,40,sgs,nitrogen,2022,Elymus elymoides,12,10
+F,41,sgs,nitrogen,2022,Sisymbrium altissimum,1,20
+F,41,sgs,nitrogen,2022,Sphaeralcea coccinea,1,20
+F,41,sgs,nitrogen,2022,Salsola tragus,9,20
+F,41,sgs,nitrogen,2022,Chenopodium sp.,14,20
+F,41,sgs,nitrogen,2022,Opuntia polyacantha,2,20
+F,41,sgs,nitrogen,2022,Vulpia octoflora,1,20
+F,41,sgs,nitrogen,2022,Elymus elymoides,6,20
+F,42,sgs,nitrogen,2022,Sisymbrium altissimum,1,30
+F,42,sgs,nitrogen,2022,Salsola tragus,9,30
+F,42,sgs,nitrogen,2022,Chenopodium sp.,18,30
+F,42,sgs,nitrogen,2022,Elymus elymoides,10,30
+F,43,sgs,nitrogen,2022,Sisymbrium altissimum,3,5
+F,43,sgs,nitrogen,2022,Sphaeralcea coccinea,1,5
+F,43,sgs,nitrogen,2022,Elymus elymoides,7,5
+F,43,sgs,nitrogen,2022,Chenopodium sp.,2,5
+F,44,sgs,nitrogen,2022,Chenopodium sp.,3,10
+F,44,sgs,nitrogen,2022,Salsola tragus,25,10
+F,44,sgs,nitrogen,2022,Sisymbrium altissimum,2,10
+F,44,sgs,nitrogen,2022,Sphaeralcea coccinea,1,10
+F,44,sgs,nitrogen,2022,Elymus elymoides,6,10
+F,45,sgs,nitrogen,2022,Elymus elymoides,15,0
+F,45,sgs,nitrogen,2022,Sphaeralcea coccinea,1,0
+F,45,sgs,nitrogen,2022,Tragopogon dubius,2,0
+F,45,sgs,nitrogen,2022,Eriogonum effusum,15,0
+F,45,sgs,nitrogen,2022,Chenopodium sp.,1,0
+F,45,sgs,nitrogen,2022,Carex eleocharis,1,0
+F,45,sgs,nitrogen,2022,Salsola tragus,5,0
+F,45,sgs,nitrogen,2022,Sisymbrium altissimum,1,0
+F,46,sgs,nitrogen,2022,Bromus tectorum,1,7.5
+F,46,sgs,nitrogen,2022,Elymus elymoides,8,7.5
+F,46,sgs,nitrogen,2022,Carex eleocharis,4,7.5
+F,46,sgs,nitrogen,2022,Chenopodium sp.,4,7.5
+F,46,sgs,nitrogen,2022,Salsola tragus,6,7.5
+F,46,sgs,nitrogen,2022,Opuntia polyacantha,3,7.5
+F,46,sgs,nitrogen,2022,Sisymbrium altissimum,1,7.5
+F,46,sgs,nitrogen,2022,Sphaeralcea coccinea,3,7.5
+F,47,sgs,nitrogen,2022,Opuntia polyacantha,10,15
+F,47,sgs,nitrogen,2022,Elymus elymoides,7,15
+F,47,sgs,nitrogen,2022,Chenopodium sp.,7,15
+F,47,sgs,nitrogen,2022,Salsola tragus,8,15
+F,48,sgs,nitrogen,2022,Elymus elymoides,14,2.5
+F,48,sgs,nitrogen,2022,Carex eleocharis,2,2.5
+F,48,sgs,nitrogen,2022,Chenopodium sp.,7,2.5
+F,48,sgs,nitrogen,2022,Echinocereus viridiflora,1,2.5
+F,48,sgs,nitrogen,2022,Salsola tragus,14,2.5
+A,1,sgs,pulse press 2,2022,Sphaeralcea coccinea,1,30
+A,1,sgs,pulse press 2,2022,Elymus elymoides,2,30
+A,1,sgs,pulse press 2,2022,Chenopodium sp.,50,30
+A,1,sgs,pulse press 2,2022,Sisymbrium altissimum,5,30
+A,1,sgs,pulse press 2,2022,Salsola tragus,6,30
+A,1,sgs,pulse press 2,2022,Lepidium densiflorum,1,30
+A,2,sgs,pulse press 2,2022,Cleome serrulata,1,20
+A,2,sgs,pulse press 2,2022,Sisymbrium altissimum,1,20
+A,2,sgs,pulse press 2,2022,Elymus elymoides,2,20
+A,2,sgs,pulse press 2,2022,Lepidium densiflorum,1,20
+A,2,sgs,pulse press 2,2022,Sporobolus cryptandrus,3,20
+A,2,sgs,pulse press 2,2022,Salsola tragus,3,20
+A,2,sgs,pulse press 2,2022,Chenopodium sp.,40,20
+A,3,sgs,pulse press 2,2022,Sphaeralcea coccinea,18,10
+A,3,sgs,pulse press 2,2022,Salsola tragus,27,10
+A,3,sgs,pulse press 2,2022,Sisymbrium altissimum,3,10
+A,3,sgs,pulse press 2,2022,Lepidium densiflorum,1,10
+A,3,sgs,pulse press 2,2022,Opuntia polyacantha,4,10
+A,3,sgs,pulse press 2,2022,Plantago patagonica,1,10
+A,3,sgs,pulse press 2,2022,Chenopodium sp.,16,10
+A,3,sgs,pulse press 2,2022,Carex eleocharis,1,10
+A,4,sgs,pulse press 2,2022,Sporobolus cryptandrus,1,15
+A,4,sgs,pulse press 2,2022,Carex eleocharis,1,15
+A,4,sgs,pulse press 2,2022,Chenopodium sp.,55,15
+A,4,sgs,pulse press 2,2022,Lepidium densiflorum,1,15
+A,4,sgs,pulse press 2,2022,Plantago patagonica,1,15
+A,4,sgs,pulse press 2,2022,Elymus elymoides,9,15
+A,4,sgs,pulse press 2,2022,Sisymbrium altissimum,1,15
+A,4,sgs,pulse press 2,2022,Sphaeralcea coccinea,8,15
+A,5,sgs,pulse press 2,2022,Sphaeralcea coccinea,1,5
+A,5,sgs,pulse press 2,2022,Sisymbrium altissimum,1,5
+A,5,sgs,pulse press 2,2022,Carex eleocharis,2,5
+A,5,sgs,pulse press 2,2022,Elymus elymoides,8,5
+A,5,sgs,pulse press 2,2022,Chenopodium sp.,50,5
+A,5,sgs,pulse press 2,2022,Salsola tragus,1,5
+A,6,sgs,pulse press 2,2022,Bouteloua gracilis,1,0
+A,6,sgs,pulse press 2,2022,Bromus tectorum,3,0
+A,6,sgs,pulse press 2,2022,Elymus elymoides,15,0
+A,6,sgs,pulse press 2,2022,Lepidium densiflorum,1,0
+A,6,sgs,pulse press 2,2022,Chenopodium sp.,24,0
+A,6,sgs,pulse press 2,2022,Sisymbrium altissimum,4,0
+A,6,sgs,pulse press 2,2022,Plantago patagonica,1,0
+A,6,sgs,pulse press 2,2022,Sphaeralcea coccinea,1,0
+A,6,sgs,pulse press 2,2022,Salsola tragus,5,0
+A,7,sgs,pulse press 2,2022,Elymus elymoides,1,7.5
+A,7,sgs,pulse press 2,2022,Bromus tectorum,16,7.5
+A,7,sgs,pulse press 2,2022,Chenopodium sp.,26,7.5
+A,7,sgs,pulse press 2,2022,Euphorbia sp.,3,7.5
+A,8,sgs,pulse press 2,2022,Bromus tectorum,2,2.5
+A,8,sgs,pulse press 2,2022,Elymus elymoides,13,2.5
+A,8,sgs,pulse press 2,2022,Chenopodium sp.,40,2.5
+A,8,sgs,pulse press 2,2022,Sisymbrium altissimum,4,2.5
+A,8,sgs,pulse press 2,2022,Sphaeralcea coccinea,8,2.5
+B,10,sgs,pulse press 2,2022,Bromus tectorum,7,2.5
+B,10,sgs,pulse press 2,2022,Elymus elymoides,9,2.5
+B,10,sgs,pulse press 2,2022,Chenopodium sp.,21,2.5
+B,10,sgs,pulse press 2,2022,Salsola tragus,1,2.5
+B,10,sgs,pulse press 2,2022,Sphaeralcea coccinea,3,2.5
+B,11,sgs,pulse press 2,2022,Leucocrinum montanum,1,7.5
+B,11,sgs,pulse press 2,2022,Salsola tragus,2,7.5
+B,11,sgs,pulse press 2,2022,Sisymbrium altissimum,1,7.5
+B,11,sgs,pulse press 2,2022,Sphaeralcea coccinea,3,7.5
+B,11,sgs,pulse press 2,2022,Chenopodium sp.,65,7.5
+B,11,sgs,pulse press 2,2022,Carex eleocharis,4,7.5
+B,11,sgs,pulse press 2,2022,Elymus elymoides,8,7.5
+B,11,sgs,pulse press 2,2022,Bromus tectorum,1,7.5
+B,12,sgs,pulse press 2,2022,Salsola tragus,5,20
+B,12,sgs,pulse press 2,2022,Sisymbrium altissimum,5,20
+B,12,sgs,pulse press 2,2022,Chenopodium sp.,55,20
+B,12,sgs,pulse press 2,2022,Sporobolus cryptandrus,1,20
+B,13,sgs,pulse press 2,2022,Sphaeralcea coccinea,10,5
+B,13,sgs,pulse press 2,2022,Sisymbrium altissimum,1,5
+B,13,sgs,pulse press 2,2022,Elymus elymoides,14,5
+B,13,sgs,pulse press 2,2022,Chenopodium sp.,31,5
+B,13,sgs,pulse press 2,2022,Salsola tragus,3,5
+B,14,sgs,pulse press 2,2022,Chenopodium sp.,14,30
+B,14,sgs,pulse press 2,2022,Elymus elymoides,1,30
+B,14,sgs,pulse press 2,2022,Bromus tectorum,5,30
+B,15,sgs,pulse press 2,2022,Chenopodium sp.,23,10
+B,15,sgs,pulse press 2,2022,Elymus elymoides,1,10
+B,15,sgs,pulse press 2,2022,Salsola tragus,4,10
+B,15,sgs,pulse press 2,2022,Sisymbrium altissimum,3,10
+B,15,sgs,pulse press 2,2022,Bromus tectorum,2,10
+B,16,sgs,pulse press 2,2022,Elymus elymoides,1,15
+B,16,sgs,pulse press 2,2022,Chenopodium sp.,35,15
+B,16,sgs,pulse press 2,2022,Sisymbrium altissimum,4,15
+B,16,sgs,pulse press 2,2022,Salsola tragus,1,15
+B,16,sgs,pulse press 2,2022,Sphaeralcea coccinea,1,15
+B,16,sgs,pulse press 2,2022,Tragopogon dubius,1,15
+B,9,sgs,pulse press 2,2022,Opuntia polyacantha,6,0
+B,9,sgs,pulse press 2,2022,Salsola tragus,6,0
+B,9,sgs,pulse press 2,2022,Chenopodium sp.,25,0
+B,9,sgs,pulse press 2,2022,Sphaeralcea coccinea,35,0
+B,9,sgs,pulse press 2,2022,Elymus elymoides,5,0
+B,9,sgs,pulse press 2,2022,Carex eleocharis,3,0
+C,17,sgs,pulse press 2,2022,Sphaeralcea coccinea,1,5
+C,17,sgs,pulse press 2,2022,Bouteloua gracilis,1,5
+C,17,sgs,pulse press 2,2022,Carex eleocharis,1,5
+C,17,sgs,pulse press 2,2022,Chenopodium sp.,39,5
+C,17,sgs,pulse press 2,2022,Salsola tragus,2,5
+C,17,sgs,pulse press 2,2022,Sisymbrium altissimum,2,5
+C,17,sgs,pulse press 2,2022,Elymus elymoides,25,5
+C,17,sgs,pulse press 2,2022,Sporobolus cryptandrus,1,5
+C,18,sgs,pulse press 2,2022,Sisymbrium altissimum,1,20
+C,18,sgs,pulse press 2,2022,Elymus elymoides,2,20
+C,18,sgs,pulse press 2,2022,Chenopodium sp.,43,20
+C,18,sgs,pulse press 2,2022,Opuntia polyacantha,1,20
+C,18,sgs,pulse press 2,2022,Salsola tragus,10,20
+C,18,sgs,pulse press 2,2022,Sporobolus cryptandrus,1,20
+C,18,sgs,pulse press 2,2022,Carex eleocharis,8,20
+C,18,sgs,pulse press 2,2022,Sphaeralcea coccinea,10,20
+C,19,sgs,pulse press 2,2022,Chenopodium sp.,28,10
+C,19,sgs,pulse press 2,2022,Sisymbrium altissimum,3,10
+C,19,sgs,pulse press 2,2022,Elymus elymoides,19,10
+C,19,sgs,pulse press 2,2022,Salsola tragus,1,10
+C,20,sgs,pulse press 2,2022,Elymus elymoides,3,30
+C,20,sgs,pulse press 2,2022,Chenopodium sp.,21,30
+C,20,sgs,pulse press 2,2022,Mirabilis linearis,1,30
+C,20,sgs,pulse press 2,2022,Salsola tragus,1,30
+C,20,sgs,pulse press 2,2022,Sisymbrium altissimum,3,30
+C,21,sgs,pulse press 2,2022,Sphaeralcea coccinea,2,0
+C,21,sgs,pulse press 2,2022,Lepidium densiflorum,1,0
+C,21,sgs,pulse press 2,2022,Echinocereus viridiflora,1,0
+C,21,sgs,pulse press 2,2022,Opuntia polyacantha,6,0
+C,21,sgs,pulse press 2,2022,Sisymbrium altissimum,1,0
+C,21,sgs,pulse press 2,2022,Elymus elymoides,14,0
+C,21,sgs,pulse press 2,2022,Carex eleocharis,5,0
+C,21,sgs,pulse press 2,2022,Chenopodium sp.,1,0
+C,21,sgs,pulse press 2,2022,Bouteloua gracilis,2,0
+C,22,sgs,pulse press 2,2022,Elymus elymoides,7,2.5
+C,22,sgs,pulse press 2,2022,Carex eleocharis,6,2.5
+C,22,sgs,pulse press 2,2022,Vulpia octoflora,1,2.5
+C,22,sgs,pulse press 2,2022,Sphaeralcea coccinea,3,2.5
+C,22,sgs,pulse press 2,2022,Salsola tragus,6,2.5
+C,22,sgs,pulse press 2,2022,Sisymbrium altissimum,4,2.5
+C,22,sgs,pulse press 2,2022,Lepidium densiflorum,1,2.5
+C,22,sgs,pulse press 2,2022,Chenopodium sp.,38,2.5
+C,23,sgs,pulse press 2,2022,Sisymbrium altissimum,3,7.5
+C,23,sgs,pulse press 2,2022,Sphaeralcea coccinea,2,7.5
+C,23,sgs,pulse press 2,2022,Bromus tectorum,13,7.5
+C,23,sgs,pulse press 2,2022,Chenopodium sp.,13,7.5
+C,23,sgs,pulse press 2,2022,Carex eleocharis,2,7.5
+C,24,sgs,pulse press 2,2022,Salsola tragus,4,15
+C,24,sgs,pulse press 2,2022,Carex eleocharis,1,15
+C,24,sgs,pulse press 2,2022,Sisymbrium altissimum,3,15
+C,24,sgs,pulse press 2,2022,Chenopodium sp.,43,15
+C,24,sgs,pulse press 2,2022,Elymus elymoides,3,15
+C,24,sgs,pulse press 2,2022,Sporobolus cryptandrus,1,15
+C,24,sgs,pulse press 2,2022,Opuntia polyacantha,2,15
+C,24,sgs,pulse press 2,2022,Leucocrinum montanum,2,15
+D,25,sgs,pulse press 2,2022,Unknown forb 13,1,2.5
+D,25,sgs,pulse press 2,2022,Salsola tragus,2,2.5
+D,25,sgs,pulse press 2,2022,Tragopogon dubius,1,2.5
+D,25,sgs,pulse press 2,2022,Sisymbrium altissimum,1,2.5
+D,25,sgs,pulse press 2,2022,Elymus elymoides,16,2.5
+D,25,sgs,pulse press 2,2022,Leucocrinum montanum,1,2.5
+D,25,sgs,pulse press 2,2022,Chenopodium sp.,26,2.5
+D,26,sgs,pulse press 2,2022,Sisymbrium altissimum,1,5
+D,26,sgs,pulse press 2,2022,Chenopodium sp.,10,5
+D,26,sgs,pulse press 2,2022,Elymus elymoides,40,5
+D,26,sgs,pulse press 2,2022,Sphaeralcea coccinea,1,5
+D,26,sgs,pulse press 2,2022,Salsola tragus,5,5
+D,27,sgs,pulse press 2,2022,Sphaeralcea coccinea,10,15
+D,27,sgs,pulse press 2,2022,Sisymbrium altissimum,1,15
+D,27,sgs,pulse press 2,2022,Salsola tragus,6,15
+D,27,sgs,pulse press 2,2022,Opuntia polyacantha,5,15
+D,27,sgs,pulse press 2,2022,Chenopodium sp.,40,15
+D,27,sgs,pulse press 2,2022,Sporobolus cryptandrus,1,15
+D,27,sgs,pulse press 2,2022,Elymus elymoides,17,15
+D,28,sgs,pulse press 2,2022,Sporobolus cryptandrus,1,7.5
+D,28,sgs,pulse press 2,2022,Elymus elymoides,23,7.5
+D,28,sgs,pulse press 2,2022,Sisymbrium altissimum,1,7.5
+D,28,sgs,pulse press 2,2022,Sphaeralcea coccinea,1,7.5
+D,28,sgs,pulse press 2,2022,Carex eleocharis,1,7.5
+D,28,sgs,pulse press 2,2022,Salsola tragus,4,7.5
+D,28,sgs,pulse press 2,2022,Chenopodium sp.,28,7.5
+D,29,sgs,pulse press 2,2022,Chenopodium sp.,30,30
+D,29,sgs,pulse press 2,2022,Salsola tragus,14,30
+D,29,sgs,pulse press 2,2022,Elymus elymoides,1,30
+D,29,sgs,pulse press 2,2022,Sisymbrium altissimum,1,30
+D,29,sgs,pulse press 2,2022,Sphaeralcea coccinea,7,30
+D,30,sgs,pulse press 2,2022,Bouteloua gracilis,6,0
+D,30,sgs,pulse press 2,2022,Sphaeralcea coccinea,2,0
+D,30,sgs,pulse press 2,2022,Opuntia polyacantha,7,0
+D,30,sgs,pulse press 2,2022,Sisymbrium altissimum,1,0
+D,30,sgs,pulse press 2,2022,Carex eleocharis,5,0
+D,30,sgs,pulse press 2,2022,Chenopodium sp.,15,0
+D,30,sgs,pulse press 2,2022,Leucocrinum montanum,1,0
+D,30,sgs,pulse press 2,2022,Elymus elymoides,19,0
+D,31,sgs,pulse press 2,2022,Sphaeralcea coccinea,3,10
+D,31,sgs,pulse press 2,2022,Elymus elymoides,4,10
+D,31,sgs,pulse press 2,2022,Chenopodium sp.,38,10
+D,31,sgs,pulse press 2,2022,Lepidium densiflorum,1,10
+D,31,sgs,pulse press 2,2022,Salsola tragus,2,10
+D,31,sgs,pulse press 2,2022,Sisymbrium altissimum,1,10
+D,32,sgs,pulse press 2,2022,Sphaeralcea coccinea,4,20
+D,32,sgs,pulse press 2,2022,Opuntia polyacantha,1,20
+D,32,sgs,pulse press 2,2022,Sisymbrium altissimum,1,20
+D,32,sgs,pulse press 2,2022,Salsola tragus,15,20
+D,32,sgs,pulse press 2,2022,Elymus elymoides,2,20
+D,32,sgs,pulse press 2,2022,Machaeranthera tanacetifolia,1,20
+D,32,sgs,pulse press 2,2022,Chenopodium sp.,35,20
+D,32,sgs,pulse press 2,2022,Ericameria nauseosa,1,20
+E,33,sgs,pulse press 2,2022,Bromus tectorum,1,0
+E,33,sgs,pulse press 2,2022,Sphaeralcea coccinea,2,0
+E,33,sgs,pulse press 2,2022,Elymus elymoides,22,0
+E,33,sgs,pulse press 2,2022,Chenopodium sp.,11,0
+E,33,sgs,pulse press 2,2022,Salsola tragus,14,0
+E,33,sgs,pulse press 2,2022,Sisymbrium altissimum,5,0
+E,34,sgs,pulse press 2,2022,Sisymbrium altissimum,2,20
+E,34,sgs,pulse press 2,2022,Lepidium densiflorum,1,20
+E,34,sgs,pulse press 2,2022,Sphaeralcea coccinea,3,20
+E,34,sgs,pulse press 2,2022,Salsola tragus,23,20
+E,34,sgs,pulse press 2,2022,Chenopodium sp.,28,20
+E,34,sgs,pulse press 2,2022,Elymus elymoides,2,20
+E,34,sgs,pulse press 2,2022,Unknown forb 14,1,20
+E,34,sgs,pulse press 2,2022,Carex eleocharis,1,20
+E,35,sgs,pulse press 2,2022,Elymus elymoides,4,30
+E,35,sgs,pulse press 2,2022,Sisymbrium altissimum,1,30
+E,35,sgs,pulse press 2,2022,Sphaeralcea coccinea,2,30
+E,35,sgs,pulse press 2,2022,Salsola tragus,7,30
+E,35,sgs,pulse press 2,2022,Sporobolus cryptandrus,1,30
+E,35,sgs,pulse press 2,2022,Carex eleocharis,1,30
+E,35,sgs,pulse press 2,2022,Chenopodium sp.,65,30
+E,36,sgs,pulse press 2,2022,Bouteloua gracilis,6,5
+E,36,sgs,pulse press 2,2022,Chenopodium sp.,16,5
+E,36,sgs,pulse press 2,2022,Hesperostipa comata,5,5
+E,36,sgs,pulse press 2,2022,Elymus elymoides,12,5
+E,36,sgs,pulse press 2,2022,Sporobolus cryptandrus,1,5
+E,36,sgs,pulse press 2,2022,Carex eleocharis,12,5
+E,36,sgs,pulse press 2,2022,Euphorbia sp.,1,5
+E,36,sgs,pulse press 2,2022,Sphaeralcea coccinea,3,5
+E,37,sgs,pulse press 2,2022,Chenopodium sp.,30,2.5
+E,37,sgs,pulse press 2,2022,Sisymbrium altissimum,1,2.5
+E,37,sgs,pulse press 2,2022,Carex eleocharis,3,2.5
+E,37,sgs,pulse press 2,2022,Bouteloua gracilis,1,2.5
+E,37,sgs,pulse press 2,2022,Salsola tragus,8,2.5
+E,37,sgs,pulse press 2,2022,Elymus elymoides,20,2.5
+E,37,sgs,pulse press 2,2022,Opuntia polyacantha,1,2.5
+E,37,sgs,pulse press 2,2022,Sphaeralcea coccinea,5,2.5
+E,38,sgs,pulse press 2,2022,Elymus elymoides,1,15
+E,38,sgs,pulse press 2,2022,Sporobolus cryptandrus,2,15
+E,38,sgs,pulse press 2,2022,Sphaeralcea coccinea,15,15
+E,38,sgs,pulse press 2,2022,Chenopodium sp.,45,15
+E,38,sgs,pulse press 2,2022,Salsola tragus,3,15
+E,38,sgs,pulse press 2,2022,Opuntia polyacantha,6,15
+E,38,sgs,pulse press 2,2022,Sisymbrium altissimum,1,15
+E,39,sgs,pulse press 2,2022,Sphaeralcea coccinea,2,7.5
+E,39,sgs,pulse press 2,2022,Sisymbrium altissimum,1,7.5
+E,39,sgs,pulse press 2,2022,Elymus elymoides,20,7.5
+E,39,sgs,pulse press 2,2022,Sporobolus cryptandrus,2,7.5
+E,39,sgs,pulse press 2,2022,Carex eleocharis,5,7.5
+E,39,sgs,pulse press 2,2022,Chenopodium sp.,34,7.5
+E,39,sgs,pulse press 2,2022,Salsola tragus,3,7.5
+E,39,sgs,pulse press 2,2022,Euphorbia sp.,1,7.5
+E,40,sgs,pulse press 2,2022,Sisymbrium altissimum,1,10
+E,40,sgs,pulse press 2,2022,Salsola tragus,7,10
+E,40,sgs,pulse press 2,2022,Chenopodium sp.,40,10
+E,40,sgs,pulse press 2,2022,Elymus elymoides,24,10
+E,40,sgs,pulse press 2,2022,Carex eleocharis,1,10
+F,41,sgs,pulse press 2,2022,Chenopodium sp.,29,20
+F,41,sgs,pulse press 2,2022,Salsola tragus,16,20
+F,41,sgs,pulse press 2,2022,Sporobolus cryptandrus,1,20
+F,41,sgs,pulse press 2,2022,Elymus elymoides,13,20
+F,41,sgs,pulse press 2,2022,Sisymbrium altissimum,1,20
+F,42,sgs,pulse press 2,2022,Sisymbrium altissimum,1,30
+F,42,sgs,pulse press 2,2022,Elymus elymoides,18,30
+F,42,sgs,pulse press 2,2022,Chenopodium sp.,34,30
+F,42,sgs,pulse press 2,2022,Salsola tragus,12,30
+F,43,sgs,pulse press 2,2022,Sphaeralcea coccinea,1,5
+F,43,sgs,pulse press 2,2022,Salsola tragus,16,5
+F,43,sgs,pulse press 2,2022,Sisymbrium altissimum,1,5
+F,43,sgs,pulse press 2,2022,Elymus elymoides,23,5
+F,43,sgs,pulse press 2,2022,Chenopodium sp.,18,5
+F,43,sgs,pulse press 2,2022,Carex eleocharis,1,5
+F,44,sgs,pulse press 2,2022,Elymus elymoides,20,10
+F,44,sgs,pulse press 2,2022,Carex eleocharis,1,10
+F,44,sgs,pulse press 2,2022,Sisymbrium altissimum,1,10
+F,44,sgs,pulse press 2,2022,Salsola tragus,3,10
+F,44,sgs,pulse press 2,2022,Chenopodium sp.,30,10
+F,45,sgs,pulse press 2,2022,Opuntia polyacantha,7,0
+F,45,sgs,pulse press 2,2022,Salsola tragus,12,0
+F,45,sgs,pulse press 2,2022,Sisymbrium altissimum,1,0
+F,45,sgs,pulse press 2,2022,Sphaeralcea coccinea,5,0
+F,45,sgs,pulse press 2,2022,Bouteloua gracilis,13,0
+F,45,sgs,pulse press 2,2022,Elymus elymoides,12,0
+F,45,sgs,pulse press 2,2022,Carex eleocharis,7,0
+F,45,sgs,pulse press 2,2022,Chenopodium sp.,10,0
+F,45,sgs,pulse press 2,2022,Echinocereus viridiflora,1,0
+F,46,sgs,pulse press 2,2022,Elymus elymoides,10,7.5
+F,46,sgs,pulse press 2,2022,Thelesperma filifolium,1,7.5
+F,46,sgs,pulse press 2,2022,Salsola tragus,12,7.5
+F,46,sgs,pulse press 2,2022,Sisymbrium altissimum,1,7.5
+F,46,sgs,pulse press 2,2022,Euphorbia sp.,1,7.5
+F,46,sgs,pulse press 2,2022,Sphaeralcea coccinea,1,7.5
+F,46,sgs,pulse press 2,2022,Carex eleocharis,3,7.5
+F,46,sgs,pulse press 2,2022,Chenopodium sp.,15,7.5
+F,47,sgs,pulse press 2,2022,Chenopodium sp.,26,15
+F,47,sgs,pulse press 2,2022,Elymus elymoides,10,15
+F,47,sgs,pulse press 2,2022,Salsola tragus,14,15
+F,47,sgs,pulse press 2,2022,Sisymbrium altissimum,1,15
+F,48,sgs,pulse press 2,2022,Opuntia polyacantha,8,2.5
+F,48,sgs,pulse press 2,2022,Salsola tragus,7,2.5
+F,48,sgs,pulse press 2,2022,Sisymbrium altissimum,1,2.5
+F,48,sgs,pulse press 2,2022,Bromus tectorum,1,2.5
+F,48,sgs,pulse press 2,2022,Elymus elymoides,24,2.5
+F,48,sgs,pulse press 2,2022,Chenopodium sp.,18,2.5
